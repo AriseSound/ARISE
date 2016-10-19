@@ -1,0 +1,777 @@
+Signature-Version: 1.0
+Created-By: MiX-Signer-
+SHA1-Digest-Manifest: AMHxnn4Nl09/LeddQOd1j20Knd4=
+
+
+Name: deuteronomy/lib/soundfx/libAuro.so
+SHA1-Digest: vH5SbfZfW6o1SVKk2In1LlOb2qA=
+
+
+Name: customize/etc/audio/dts/dts_EDISON_normal.xml
+SHA1-Digest: 9SqSQ1A6kqCxhUfB2F6URHeMR8U=
+
+
+Name: customize/vendor/lib/armeabi/soundfx/sfx.prop
+SHA1-Digest: DBiyAmoKJeWqt0QrT57N11Iowa8=
+
+
+Name: customize/etc/audio/dts/dts_CARRERA_UL_normal.xml
+SHA1-Digest: GE214JhHvIfN2ncOPKPj8VwwW54=
+
+
+Name: customize/wiko/lib/libmtklimiter.so
+SHA1-Digest: ujzpiWoqmiHWPdVk9AivTD2TLsU=
+
+
+Name: customize/customize_information.prop
+SHA1-Digest: qcJfUb36Z5af33CZxMCAvzKYMEM=
+
+
+Name: customize/lib/armeabi/libmars-featureclient.so
+SHA1-Digest: xSe1laV/Tmg9xWuae9u3PVw2Cso=
+
+
+Name: customize/etc/audio/dts/ascend_dts_algo_EDGEPUG_normal.xml
+SHA1-Digest: 8oDxtnaDBMRo77sJNp9JrYywO8g=
+
+
+Name: deuteronomy/lib/libosl-maxxaudio-itf.so
+SHA1-Digest: NfaSvCUUllWhKMf+1wkAeT88tgY=
+
+
+Name: customize/etc/audio/dts/ascend_dts_algo_GRACE_TUGL_normal.xml
+SHA1-Digest: Jq968z/ksPfPbm4Ma+YwJ7PzZLU=
+
+
+Name: sources/Vivo V3 Max/Qualcomm/build.prop
+SHA1-Digest: G+sWzn2kHAlH5Sl1FcWWfAmuypQ=
+
+
+Name: customize/etc/audio_effects.conf
+SHA1-Digest: 8evSge1NBT4XME0yiGRq5SlQyKs=
+
+
+Name: customize/etc/audio/codec/ascend_HONORTL_normal.xml
+SHA1-Digest: etBO86i+jjMJi0t1RMtC9RA/6bw=
+
+
+Name: customize/lib/armeabi/soundfx2/libvisualizer.so
+SHA1-Digest: fARjaOPm1HfLzurhau9AY3+TmzM=
+
+
+Name: customize/lib/armeabi/libV4AJniUtils.so
+SHA1-Digest: rcF77flhh3X2iXnzC8R86W99IK0=
+
+
+Name: customize/etc/audio/dts/dts_MOZART_normal.xml
+SHA1-Digest: PwpWxYEggaIrhW05gpqkm/P4aJU=
+
+
+Name: customize/etc/audio/dts/dts_DAVINCE_CLG_normal.xml
+SHA1-Digest: PyNCjEbETE0ETA5mVjVE2GglQcg=
+
+
+Name: customize/etc/audio/dts/dts_NEXT_normal.xml
+SHA1-Digest: SfBAkWO/rgfhIs9HnaY6CBSDq9s=
+
+
+Name: customize/wiko/lib/libmtkshifter.so
+SHA1-Digest: 43L0cnnaW8kU/ePSJwlExMZpHZI=
+
+
+Name: customize/wiko/etc/settings-config.xml
+SHA1-Digest: zfDH2wRYSiRwMMxC432lejlsRvw=
+
+
+Name: customize/etc/audio/dts/dts_GEMINI_normal.xml
+SHA1-Digest: m7tep7p/nvjwZfRKGluHZskB+Ao=
+
+
+Name: customize/etc/qc/qc2/audio_effects.conf
+SHA1-Digest: TMWfGlmC+agEiPsZP+GPaLRWiUE=
+
+
+Name: customize/etc/dts/attached0.dtscs
+SHA1-Digest: ffxgUSDXI2D9N9ATk4MOBpYq9iU=
+
+
+Name: customize/etc/audio/codec/ascend_OSCARTL_ce.xml
+SHA1-Digest: nujc96GoQ/FGVCCAWKtXLRtrTfs=
+
+
+Name: deuteronomy/lib/libgnustl_shared.so
+SHA1-Digest: VPdHDRMgPNtUYlC7QxXRAHCelTg=
+
+
+Name: customize/vendor/etc/audio_effects.conf
+SHA1-Digest: dno0X1R6yE0Xl/dkyDOkwK+ZCVs=
+
+
+Name: customize/app/ViPER4Arise.apk
+SHA1-Digest: /DXjHuoOkiADWQ5BL7pJ6xybSH8=
+
+
+Name: deuteronomy/lib/soundfx/libarkamys.so
+SHA1-Digest: KdPnvwKLHKk0m6MZ5/UJjKpXFvg=
+
+
+Name: customize/lib64/armeabi/libswsprocessing.so
+SHA1-Digest: SA/+RoUOhDXyQM8x666M3Sz9s98=
+
+
+Name: customize/etc/audio/codec/ascend_default_ce.xml
+SHA1-Digest: Iv6GjcmFeY4aM4gIBxblq/3cpps=
+
+
+Name: customize/lib64/mtk/soundfx/libbbesonicmax.so
+SHA1-Digest: z94fmKdejcg2L15C4Rq7oJzdayo=
+
+
+Name: deuteronomy/lib/libauroservice.so
+SHA1-Digest: H7ZqO5y2QdeSdRLJVRKm8p/O6AE=
+
+
+Name: deuteronomy/ARISE_Version.prop
+SHA1-Digest: 09B5bYgMtdIkeW9GwF3zg7wJVO8=
+
+
+Name: customize/etc/audio/dts/dts_PLK_AL_normal.xml
+SHA1-Digest: lKJjDwZsd8/6bevlm4Kl0Uceej0=
+
+
+Name: customize/etc/audio/codec/ascend_OSCARVA_ce.xml
+SHA1-Digest: geAw9xZoqW+jzh12aHbXEnvenLU=
+
+
+Name: customize/etc/dts/dts-m6m8-lic.key
+SHA1-Digest: OKgf6p1BgfCm7oJfhu1TwerKKJw=
+
+
+Name: customize/lib/armeabi/libhuaweiaudioeffectutil.so
+SHA1-Digest: IFyyqM5Ps+uPIiDC1Zbs+pCxMMo=
+
+
+Name: customize/etc/audio/codec/ascend_OSCAR_ce.xml
+SHA1-Digest: JVCSEsZ5BS3HeTlymIgd2WV2fVw=
+
+
+Name: customize/etc/audio/dts/ascend_dts_algo_EDGEPUL_normal.xml
+SHA1-Digest: HKz0mKrUVEjQmkzpAiJHD0Tq5/o=
+
+
+Name: customize/etc/qc/htc/htc_audio_effects.conf
+SHA1-Digest: TwdrqJUFqKaExJD+JDK5gWXXu9U=
+
+
+Name: customize/app/Esira.apk
+SHA1-Digest: RQ7M6L/aD5GmxpjE7o5YD3j9eSo=
+
+
+Name: customize/etc/dts/combo0.dtscs
+SHA1-Digest: +AKYedgoA3j05YpnyA5Y5uy1zXc=
+
+
+Name: customize/lib64/armeabi/libqcompostprocbundle.so
+SHA1-Digest: MUd4VOc1iKw9nBNEXqUmACymYhQ=
+
+
+Name: customize/etc/audio/codec/ascend_SOPHIACLG_ce.xml
+SHA1-Digest: YMj7JvYyiENbKTDLBKqbBsPawgo=
+
+
+Name: customize/lib/armeabi/soundfx/libsonysweffect.so
+SHA1-Digest: 6TKbJjjC+nXw5vHLFbNIYfVT5tA=
+
+
+Name: customize/etc/audio/dts/dts_hi3635_normal.xml
+SHA1-Digest: X5P+2bBtvbPZajVtd1uAW+EfJrE=
+
+
+Name: customize/wiko/lib/libaudiocustparam.so
+SHA1-Digest: NtFFBAn4faLf3WgdUWFx+dC4JxQ=
+
+
+Name: customize/lib/armeabi/soundfx2/libeffectproxy.so
+SHA1-Digest: 9iVT+N4ju8RjVk7GBiOkDzCbv9g=
+
+
+Name: customize/etc/qc/audio_effects.conf
+SHA1-Digest: 7vmkNFkrhqrs2kljC32u4iaRjo8=
+
+
+Name: customize/vendor/lib/armeabi/soundfx/libqcbassboost.so
+SHA1-Digest: Y6zXs91iXZ58UjrkqHmLdjD0DDM=
+
+
+Name: customize/etc/qc/dap/vendor_audio_effects.conf
+SHA1-Digest: wjRlc4R3LY4D93PCy5lwQlbeFEg=
+
+
+Name: customize/lib64/armeabi/libaudioom.so
+SHA1-Digest: YIXaDmrYvtdHdmsK6QUEm7+8Beo=
+
+
+Name: customize/wiko/data/misc/ProjectConfig.mk
+SHA1-Digest: PmEm7MpLRxbLetz6NLgC2gBa11Y=
+
+
+Name: customize/etc/audio/codec/ascend_OSCARVA_normal.xml
+SHA1-Digest: 2nbSrQld95KUaU/SwA4d+5zb6dE=
+
+
+Name: deuteronomy/lib/libswsprocessing.so
+SHA1-Digest: 3hZj7aXNSXh8py5lZsM5TKcBSjw=
+
+
+Name: customize/etc/srs/srs_processing.cfg
+SHA1-Digest: OJtFuQBPGlPfp05T1Oj85F9EPNY=
+
+
+Name: customize/lib64/armeabi/soundfx2/libvisualizer.so
+SHA1-Digest: ukyQIjzgfDuvFnr5pjKGqjijWBA=
+
+
+Name: customize/lib/x86/libv4a_fx_jb_X86.so
+SHA1-Digest: Tn8iiag2zZn/Hw3Le7hUpCcsnn8=
+
+
+Name: customize/etc/audio/dts/dts_hi3650_normal.xml
+SHA1-Digest: uAkSjDcCO3JU7RiS68rp0TK+lb4=
+
+
+Name: customize/lib/armeabi/libmars-service.so
+SHA1-Digest: 4BLNRLYlZ0NanevFtVvzZvTuWi4=
+
+
+Name: customize/etc/qc/dap/dap2/audio_effects.conf
+SHA1-Digest: Qw3Gn4JA3Fx8OHkcDrsO1j2E5H0=
+
+
+Name: customize/wiko/lib/libaudiocomponentengine.so
+SHA1-Digest: uyg5aTqeKv5vcc+WR54LBdcPt2s=
+
+
+Name: customize/etc/audio/dts/dts_GRACEES_normal.xml
+SHA1-Digest: vCZTHwgtC8juIH/MlIiFMBwklHw=
+
+
+Name: deuteronomy/lib/libharman.so
+SHA1-Digest: LvjEWqeVmOdXASpBLMqMBDQEN6s=
+
+
+Name: customize/etc/audio/dts/ascend_dts_algo_GRACE_CLG_normal.xml
+SHA1-Digest: 2wtbIQ5rzC+q1h0qwfxeyn3sjRw=
+
+
+Name: customize/lib/armeabi/libmars-service_jni.so
+SHA1-Digest: dhG45pFOQkz2TB+Vcv6RjScPFMk=
+
+
+Name: customize/etc/srs/models.txt
+SHA1-Digest: IkTnpOitfrVxrcAX50pZzH5D3fg=
+
+
+Name: sources/Wiko Robby/build.prop
+SHA1-Digest: rRVwwn6cdTrhCwAjtv3M2mGdkkQ=
+
+
+Name: deuteronomy/lib/libaudioom.so
+SHA1-Digest: p0ZjNoxAwQodDOtZ6oU/LB+gvwQ=
+
+
+Name: deuteronomy/lib/DolbySurroundModule.so
+SHA1-Digest: m2/hqCu5053fIw8HoEotddEZnv4=
+
+
+Name: sources/Meizu M3 Note/build.prop
+SHA1-Digest: UdM5Ltww/L5O6hDvxt+Gxu2tZGA=
+
+
+Name: customize/etc/audio/codec/ascend_SOPHIACLG_normal.xml
+SHA1-Digest: c/YgO6OTvnXcfkt1CG+Lq+U0tNM=
+
+
+Name: deuteronomy/lib/AudioSphereModule.so
+SHA1-Digest: FA5xpmu/J/qaeBOnkdQuiq+gCWc=
+
+
+Name: customize/etc/dts/bluetooth0.dtscs
+SHA1-Digest: l/V/wX3GIxZmHmoPuhKPPy23NRc=
+
+
+Name: customize/etc/qc/op3/vendor_audio_effects.conf
+SHA1-Digest: 2uJrddlky+cWksicHdQNdNfKmwA=
+
+
+Name: customize/etc/qc/audio_offload_effects.conf
+SHA1-Digest: BzJiKhRJkfNEw3jhamnEeiI0bhI=
+
+
+Name: customize/etc/audio/dts/dts_GRACE_CLG_normal.xml
+SHA1-Digest: v173qsgXpAOthAMvp1yoDNmiC8A=
+
+
+Name: customize/etc/audio/codec/ascend_EDGEPUG_normal.xml
+SHA1-Digest: NAkx/2srG5qV0IwOyBKdvXliRu8=
+
+
+Name: customize/wiko/etc/audio_em.xml
+SHA1-Digest: U/roHrPZD0n9I7+6jvB/1Tmosfg=
+
+
+Name: customize/lib/armeabi/soundfx2/libqcompostprocbundle.so
+SHA1-Digest: +9fRk1+3PRWgG4skJP7z8Oiq8hg=
+
+
+Name: customize/lib/armeabi/libmwsound.so
+SHA1-Digest: HsLVbTYTF06I4B++CQPLIFKrCRY=
+
+
+Name: customize/etc/audio/dts/ascend_dts_algo_GRACE_ES_normal.xml
+SHA1-Digest: xYRZcKd5LzHyQY022LYP4DisfOM=
+
+
+Name: deuteronomy/lib/DTS_HPX_MODULE.so
+SHA1-Digest: O6DlDuJ1DLhsl0zx74ul5vwkskg=
+
+
+Name: customize/lib/armeabi/libv4a_fx_jb_NEON.so
+SHA1-Digest: TDgcG7zk9j/xkUuQoGwVvwzq9ls=
+
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: 15ock9qFC/Y7dcRUV8VmC2rBI2w=
+
+
+Name: customize/etc/audio/codec/ascend_default_normal.xml
+SHA1-Digest: y6MjkDWI/+tMIqcdMlX7MwJ+3l8=
+
+
+Name: customize/etc/audio/codec/ascend_HONORUL_normal.xml
+SHA1-Digest: 5mcsjB2jDx1oMbBEn7f9D1dfE1Y=
+
+
+Name: customize/etc/qc/op3/vault/audio_policy.conf
+SHA1-Digest: j1A2htImU5lup/eh1Y690ZoPItE=
+
+
+Name: customize/etc/audio/dts/ascend_dts_algo_OSCARVA_normal.xml
+SHA1-Digest: 4YUrdqRMlhGr+Sf8yBJpA2O8XOA=
+
+
+Name: sources/vendor_sources.prop
+SHA1-Digest: bBi78ltAyijI5gof5qQOFFSEEOY=
+
+
+Name: customize/etc/audio/codec/ascend_OSCARTL_normal.xml
+SHA1-Digest: +pOGu/EjJYORtem6TONbKOAqud0=
+
+
+Name: customize/etc/audio/codec/ascend_EDGEPUG_ce.xml
+SHA1-Digest: xBb9b+OtKXDSE9d7nBvFPJKtnWs=
+
+
+Name: customize/etc/audio/dts/dts_PLK_UL_normal.xml
+SHA1-Digest: ElhpQSvTcbxrVpVp8+FKeyhJsgE=
+
+
+Name: customize/etc/audio/dts/dts_EVA_normal.xml
+SHA1-Digest: mbIuAhm+VbL/I5D4iNdKEQUBp68=
+
+
+Name: deuteronomy/lib/libaurostat.so
+SHA1-Digest: BXEylsWiROb1LhVQCY8ogegZ5Us=
+
+
+Name: deuteronomy/lib/libauroservice_client.so
+SHA1-Digest: 1kT3FL1hNm5ZkgwZcbb06RzZ6u0=
+
+
+Name: customize/etc/audio/dts/dts_CARRERA_CLG_normal.xml
+SHA1-Digest: rlE7SGhAl8eNzwdTbx66rDDK8bU=
+
+
+Name: sources/LG V20/build.prop
+SHA1-Digest: 2SSjKRTxFSqQ0ChQmw0crE+rLyY=
+
+
+Name: customize/etc/qc/op3/audio_effects.conf
+SHA1-Digest: VjAwzcH/7uDXdii6O/aeK2uXWHY=
+
+
+Name: customize/etc/qc/audio_effects_vendor.conf
+SHA1-Digest: SpQhUJYShWGIvMyOyLLX9cnIGOs=
+
+
+Name: customize/etc/audio/dts/dts_PLK_CL_normal.xml
+SHA1-Digest: Uq5adfEeb4OMGqqxURN8Z1wCIK8=
+
+
+Name: customize/etc/audio/dts/dts_GALILEO_normal.xml
+SHA1-Digest: aFk6Jv3S5m8PMu6IHufvr5b6ZVg=
+
+
+Name: customize/etc/qc/qc2/audio_effects_vendor.conf
+SHA1-Digest: Pz4zzGrJfuk+o1fxqlSRrCb5qqY=
+
+
+Name: customize/wiko/etc/audio_param/AudioParamOptions.xml
+SHA1-Digest: BgOP/P2o6BkyXhZ9IfZOXDmsnX0=
+
+
+Name: customize/etc/audio/codec/ascend_EDGEPUL_normal.xml
+SHA1-Digest: qdl65OhryP6pW6UNQVTP730yKus=
+
+
+Name: deuteronomy/lib/SrsTruMediaModule.so
+SHA1-Digest: SUrFQxLHBlCsdTowkDzhDiiwASc=
+
+
+Name: deuteronomy/lib/libmaxxeffectwrapper.so
+SHA1-Digest: /KZFyGneLLhB3LEhCyIWVi2CA6A=
+
+
+Name: customize/lib/armeabi/libhuaweiprocessing.so
+SHA1-Digest: pamMFhb4pUUVcmasiEzBYbymfvk=
+
+
+Name: customize/etc/audio/dts/dts_KEPLER_normal.xml
+SHA1-Digest: 20uo7fOBAU6Lup1QHu0BifrZ/28=
+
+
+Name: customize/etc/audio/dts/ascend_dts_algo_default_normal.xml
+SHA1-Digest: sl9AswwUKWMWPvO9m/mZneNNnWg=
+
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: lUSqD+dWcawckeASJWhvCt3aN40=
+
+
+Name: deuteronomy/etc/arkamys/config_presets/2_TUNING
+SHA1-Digest: 08QeQcDpTPPTu20KHgqUR5bTu9E=
+
+
+Name: customize/lib/armeabi/soundfx2/sfx2.prop
+SHA1-Digest: PPrBRxDB1OHOdl9lnqVnCEEmKeQ=
+
+
+Name: customize/lib/armeabi/libaudioflinger.huawei.so
+SHA1-Digest: TaSohjq1MWiIJE3/D68Q18P5ztw=
+
+
+Name: customize/etc/srs/srsmodels.lic
+SHA1-Digest: orIMUm1yrCQfWx5xbf74gWc2TNs=
+
+
+Name: customize/etc/audio/codec/ascend_OSCARUL_ce.xml
+SHA1-Digest: NMqKGWnEKrfobJ1+qX1vKRHiIdI=
+
+
+Name: customize/etc/audio/dts/dts_GRACE_TUGL_normal.xml
+SHA1-Digest: R6jCtLARsSM2HYJpTZPtPgkpIB8=
+
+
+Name: customize/etc/audio/codec/ascend_SOPHIA_normal.xml
+SHA1-Digest: wOc5Jv1/KV58V97GbTgSJu24JVA=
+
+
+Name: customize/wiko/lib/libbessurround_mtk.so
+SHA1-Digest: Hjorglfb8+92ey+8tymumiuTOJ4=
+
+
+Name: customize/wiko/data/srs_processing.cfg
+SHA1-Digest: dOj8D133bqlYpSHs6fKOX10qzec=
+
+
+Name: customize/etc/audio/dts/ascend_dts_algo_OSCARUL_normal.xml
+SHA1-Digest: jLxDlTEqk6vlGAXabeTfFvN0ehI=
+
+
+Name: sources/Nextbit Robin/build.prop
+SHA1-Digest: DfplZec7d/3ao9I8xCHNde1GUgE=
+
+
+Name: deuteronomy/lib/libMAM2-AlgFX-Coretex_A9.so
+SHA1-Digest: Pb3yFepNwwjrGuloNA7mgSMP67k=
+
+
+Name: deuteronomy/lib/DolbyMobileModule.so
+SHA1-Digest: xTxggA3uhZ4heNmjXKYPb9HxVLA=
+
+
+Name: customize/lib/armeabi/libqcompostprocbundle.so
+SHA1-Digest: xyDsKCbKfhiEo0Rl6F6pZOnZF/w=
+
+
+Name: customize/lib/armeabi/libaudioalgoservice_jni.so
+SHA1-Digest: TeIaLZftJ/sSUN7Ehr70tm9NNBQ=
+
+
+Name: customize/wiko/lib/libbessound_hd_mtk.so
+SHA1-Digest: +UJ7gqOMG8+DzZN62PCHscZVvxU=
+
+
+Name: customize/etc/stock_audio_effects.conf
+SHA1-Digest: d/NBKbBcgRVxoVfYYma3Ou+TPBw=
+
+
+Name: customize/etc/audio/dts/dts_GRACE_UL_normal.xml
+SHA1-Digest: v62IsJjNc17/QiuqN4Cit4M645c=
+
+
+Name: customize/lib/mtk/soundfx/libbbesonicmax.so
+SHA1-Digest: Qy/SMn7OBQjX0Mpud4nB9KhI/m8=
+
+
+Name: customize/lib/armeabi/soundfx/libsonypostprocbundle.so
+SHA1-Digest: rq4or3Qg0dOQtPgEicB3llruqWo=
+
+
+Name: customize/etc/audio/dts/ascend_dts_algo_OSCARTL_normal.xml
+SHA1-Digest: NHP+7REZ014m/te1MwxgXia2cgg=
+
+
+Name: customize/su.d/arisesoundserver
+SHA1-Digest: dC3+dOJv/oMJ7ndnCqotNYDpbiU=
+
+
+Name: customize/etc/dts/lineout0.dtscs
+SHA1-Digest: kp31xd4xmxotmSuX+OnOOhu2IoU=
+
+
+Name: customize/etc/audio/dts/ascend_dts_algo_GRACE_UL_normal.xml
+SHA1-Digest: eK/YWT+Lng88uRovQD8590Jrgus=
+
+
+Name: customize/etc/dts/other.dtscs
+SHA1-Digest: zGyONARoUTirvXK0qxXk0OkA9ho=
+
+
+Name: sources/Sony Xperia X Compact/build.prop
+SHA1-Digest: ehU/vJ4mm2kIGM/BVKyRMvDKWa8=
+
+
+Name: customize/lib64/armeabi/libaudioalgoservice_jni.so
+SHA1-Digest: BqVbBZCU0pmVsUYQS8BQNu1DqLM=
+
+
+Name: customize/etc/audio/dts/ascend_dts_algo_HONORTL_normal.xml
+SHA1-Digest: 7ccRq2aVXYZc6yHdtTQWVSCGGOg=
+
+
+Name: sources/Vivo V3 Max/Mediatek/build.prop
+SHA1-Digest: MzTmq8wpACpW+U1zp8WUe8/XXDA=
+
+
+Name: customize/lib64/armeabi/soundfx2/sfx2.prop
+SHA1-Digest: CDOO8Ny4kEGllp/0x7jPnKww4X4=
+
+
+Name: customize/etc/audio/dts/dts_DAVINCE_normal.xml
+SHA1-Digest: LUG0d2PA74qJxIU9o4Na7omvMZo=
+
+
+Name: deuteronomy/lib/soundfx/libbbesonicmax.so
+SHA1-Digest: ijV5YRGoyAEBr0So7VjmbqR+Ln8=
+
+
+Name: deuteronomy/su.d/arisesound_setprop
+SHA1-Digest: 7Ou+1FaEMdcYRDiWzUVja7z2gg4=
+
+
+Name: deuteronomy/lib/soundfx/libmaxxeffect-cembedded.so
+SHA1-Digest: cYDFj/JcDONyrHBdS5qsCWXlgYw=
+
+
+Name: customize/etc/qc/htc/htc_vendor_audio_effects.conf
+SHA1-Digest: QfKe6GH5NrmbOINmYmykizKiqA4=
+
+
+Name: customize/etc/qc/dap/dap2/vendor_audio_effects.conf
+SHA1-Digest: rYTV7xOB3Edx/syVpHAs76/kgDI=
+
+
+Name: customize/etc/audio/codec/ascend_OSCAR_normal.xml
+SHA1-Digest: 2qHgNbxDBMxLqXo4NLYSZsxdMmg=
+
+
+Name: customize/etc/audio/codec/ascend_HONORTL_ce.xml
+SHA1-Digest: C5EHLiRJJpR8MvR5VJUS8w+W8cQ=
+
+
+Name: customize/etc/audio/codec/ascend_EDGEPUL_ce.xml
+SHA1-Digest: MaRAaxryauGkY2gAOespGB/AvUc=
+
+
+Name: customize/etc/audio/dts/dts_default.xml
+SHA1-Digest: dgwh07Uc8btqDff2Pjp0UvpdApU=
+
+
+Name: customize/etc/audio/dts/dts_FRD_normal.xml
+SHA1-Digest: 8y5uQ/1QcipT80ZSMWX+pH2vQo0=
+
+
+Name: customize/vendor/lib/armeabi/soundfx/libqcvirt.so
+SHA1-Digest: vhCzQSm78etXuXnii+RMKeFxqr0=
+
+
+Name: customize/etc/audio/dts/dts_KNIGHT_normal.xml
+SHA1-Digest: 6pF5aA9yDR/ogko2Ch57OnYWVog=
+
+
+Name: customize/wiko/bin/audiocmdservice_atci
+SHA1-Digest: 8ebRowODOMeqcCI0J8WpBEVvxB8=
+
+
+Name: customize/etc/audio/dts/ascend_dts_algo_OSCAR_normal.xml
+SHA1-Digest: bKGZOO32k7In3svWRY7rojDZvHQ=
+
+
+Name: customize/etc/audio/codec/ascend_SOPHIA_ce.xml
+SHA1-Digest: +8p7J1Hsf6jFfAG4wiyQVLHoREI=
+
+
+Name: customize/etc/audio/dts/dts_CARRERA_TUGL_normal.xml
+SHA1-Digest: 8yDVsxfTViOpElumLwcxzhP+lRg=
+
+
+Name: customize/lib/armeabi/libsrsprocessing.so
+SHA1-Digest: 92Y4O+GJKyrF8gGx4bgnMxh5fqE=
+
+
+Name: customize/lib64/armeabi/soundfx2/libqcompostprocbundle.so
+SHA1-Digest: s0HlyzZdnuS/BqXlr/1a0geSKQs=
+
+
+Name: customize/lib64/armeabi/soundfx2/libeffectproxy.so
+SHA1-Digest: Lpq2dXpqKL5MihLrbMim2iG5aEc=
+
+
+Name: customize/etc/qc/dap/audio_effects.conf
+SHA1-Digest: 9m1pdgflwpI09HrXRLqh6it7U30=
+
+
+Name: customize/etc/audio/dts/dts_VIENNA_normal.xml
+SHA1-Digest: 7ZngRYLWJItLOjBmr1nMXxXlTQc=
+
+
+Name: deuteronomy/etc/arkamys/config_presets/10_TUNING
+SHA1-Digest: JAAwvEqoNPezKSxB5/1W+9fC/oM=
+
+
+Name: customize/etc/audio_offload_effects.conf
+SHA1-Digest: LpX8WeEmHs2lidb1mM/a832e83s=
+
+
+Name: customize/etc/audio/dts/ascend_dts_algo_SOPHIACLG_normal.xml
+SHA1-Digest: syavy9u9LK2YBpI8yOmNzY6D6q0=
+
+
+Name: customize/etc/audio/dts/ascend_dts_algo_SOPHIA_normal.xml
+SHA1-Digest: IaBgAq8lC53yWpPxUDFSmM7qLAI=
+
+
+Name: customize/etc/qc/op3/vault/audio_output_policy.conf
+SHA1-Digest: Elk4jyvJS9TrFiTDCc9tgDi/cBI=
+
+
+Name: customize/etc/audio/dts/ascend_dts_algo_HONORUL_normal.xml
+SHA1-Digest: /ciIGmBmwG9AfGFKZwezoFmcqvY=
+
+
+Name: customize/etc/audio/codec/ascend_OSCARUL_normal.xml
+SHA1-Digest: MABg+5y5L68yVjhhB+U2kGJebIs=
+
+
+Name: deuteronomy/etc/arkamys/ArkamysAudioService.xml
+SHA1-Digest: 3I0Vt7UKtT7zxERwLRo+jzgd/0Y=
+
+
+Name: customize/lib/armeabi/libmars-audioparams.so
+SHA1-Digest: OBEwR/polJr3DqFXdMkHh/4HDGY=
+
+
+Name: sources/Huawei Mediapad M2/build.prop
+SHA1-Digest: qzcMjU2J5G6e4CGx6gXiOkc8Byc=
+
+
+Name: customize/etc/qc/qc2/audio_offload_effects.conf
+SHA1-Digest: I0BjJMdskUuu1Jid+BbxQrU+Mbg=
+
+
+Name: customize/etc/dts/attached1.dtscs
+SHA1-Digest: /VVdQIuM8394siGYfDEM58gRFvU=
+
+
+Name: customize/lib/x86/libV4AJniUtils.so
+SHA1-Digest: qgy2VM26xiclV8H+ufMv8wIG+sE=
+
+
+Name: customize/etc/dts/eagle-lic.key
+SHA1-Digest: p8AuU6LapJyutbL+C10rkupKm4U=
+
+
+Name: customize/etc/audio/dts/dts_hi3635cs_normal.xml
+SHA1-Digest: ArYMgXG29LoXEOw9KDO1M0bZhpU=
+
+
+Name: customize/etc/audio/dts/dts_LITTLEBOY_normal.xml
+SHA1-Digest: 5A5qqNl0LCR1EbmE0yDQv7ryDsg=
+
+
+Name: customize/etc/audio/dts/dts_LISZT_normal.xml
+SHA1-Digest: +pBD4F98oa6PHJxKWHO73KAStTY=
+
+
+Name: customize/etc/audio/dts/ascend_dts_algo_hi3635_normal.xml
+SHA1-Digest: RtHhzEy82T/bfqbShsCLS+NRmFQ=
+
+
+Name: deuteronomy/lib/libAndroidAlgSys.so
+SHA1-Digest: ttF3xJdDvTtQBxMNh0Qurzkgnqs=
+
+
+Name: customize/vendor/lib/armeabi/soundfx/libqcreverb.so
+SHA1-Digest: ugQ0nndCQNcxsd7ILnOyjCSPM78=
+
+
+Name: customize/lib/armeabi/libhuaweiaudioalgoservice.so
+SHA1-Digest: 6sSZ1VcKYKLVqbyLwjpM0ch54+c=
+
+
+Name: customize/etc/dts/configurator.cfg
+SHA1-Digest: 3ofT2xlomAc8eD+IVyJVJwtYi9g=
+
+
+Name: customize/etc/audio/codec/ascend_HONORUL_ce.xml
+SHA1-Digest: NffJp/7QRkOCJfChMAvA1daL2uM=
+
+
+Name: customize/wiko/data/dts.lic
+SHA1-Digest: ET1QBc79o6EBwXK72+zvc5ifbYg=
+
+
+Name: customize/etc/audio_policy_configuration.xml
+SHA1-Digest: rpPdEuWqR7mCHLFCsY/sMMibFJU=
+
+
+Name: customize/etc/audio/dts/dts_PLK_TL_normal.xml
+SHA1-Digest: YoLYU983YYmTHdJGh7b9EZTQ964=
+
+
+Name: customize/etc/audio_effects_vendor.conf
+SHA1-Digest: RW3pBS90HF0d1K1+4h4wahvJjKQ=
+
+
+Name: customize/etc/audio/dts/ascend_dts_algo_hi3650_normal.xml
+SHA1-Digest: u+4d3G1NzoSBhVm79Yd8Kbyl0xQ=
+
+
+Name: customize/wiko/lib/libmtk_drvb.so
+SHA1-Digest: ICAEssco1AOyHZRv7JMM8fih1qQ=
+
+
+Name: customize/etc/audio/dts/ascend_dts_algo_hi3635cs_normal.xml
+SHA1-Digest: 7qh+qYM+pfec9eUfknu2gUH92C0=
+
+
