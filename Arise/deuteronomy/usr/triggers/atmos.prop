@@ -1,0 +1,30 @@
+
+# ARISE Sound Systems™
+#
+# atmos.prop
+#
+# ahrion@arisesound.com
+#
+# www.arisesound.com
+
+
+
+The atmos.prop, when placed or renamed as /system/atmos_YES.prop, will instruct the sound system installation script to install the appropriate Dolby Atmos™ add-on with the standard sound system.
+
+
+##
+
+Marshmallow and up with /system/atmos_YES.prop will receive @ahrion's LeMax Dolby Atmos™ port and a script setting SElinux to Permissive. Source:
+
+http://forum.xda-developers.com/android/software/soundmod-axon-7-dolby-atmos-t3412342
+
+#
+
+Lollipop and below with /system/atmos_YES.prop will receive @worstenbrood's Lenovo™ dap_r6.5 port. Source: 
+
+http://forum.xda-developers.com/android/apps-games/mod-dolby-atmos-t3109446
+
+##
+
+
+If desiring only the standard sound system installation , simply ensure this file does not exist as /system/atmos_YES.prop before installing the sound system zip.

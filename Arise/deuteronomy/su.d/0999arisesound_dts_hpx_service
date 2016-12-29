@@ -1,0 +1,27 @@
+#!/system/bin/sh
+#
+# ARISE Sound Systems™
+#
+# arisesound_dts_hpx_service
+#
+# www.arisesound.com
+
+su
+
+mount -o rw,remount /system
+mount -o rw,remount /data
+
+if [ -d "/system/app/AudioWizard" ]; then
+  rm /data/data/com.asus.maxxaudio/lib
+  rm /data/app/com.asus.maxxaudio-1/lib
+  mkdir -p /data/data/com.asus.maxxaudio/lib
+  mount -o bind /system/app/AudioWizard/lib /data/data/com.asus.maxxaudio/lib
+  if [ -d "/data/app/com.asus.maxxaudio-1" ]; then
+    mkdir -p /data/app/com.asus.maxxaudio-1/lib
+    mount -o bind /system/app/AudioWizard/lib /data/app/com.asus.maxxaudio-1/lib
+  fi
+fi
+
+cd /system/bin
+
+dts_hpx_service

@@ -1,0 +1,55 @@
+
+# ARISE Sound Systems™
+#
+# permissive.prop
+#
+# www.arisesound.com
+
+
+
+SElinux environment in Android is possibly the biggest change introduced in SDK 21 along with Android Runtime replacing Dalvik.
+
+*
+
+ From Google:
+
+"SELinux operates on the ethos of default denial. Anything that is not explicitly allowed is denied. SELinux can operate in one of two global modes: permissive mode, in which permission denials are logged but not enforced, and enforcing mode, in which denials are both logged and enforced."
+
+
+
+It's easy to guess that Enforcing mode is the current mode used in Android development. The implementation of Google Wallet, and now Android Pay, and other increasingly personal and private data and information over these last few SDK versions puts security at an all-time high.
+
+
+It's also easy to carelessly assume that Google hates root (superuser privileges) to explain the so-called "cat and mouse game" of closing once successful vulnerabilities for superuser privileges.
+
+
+It's not Google. It's insurance. Try to imagine for a moment, Google's monthly expenses for all expenses related to insurance. I do not, nor have I tried to seek this answer, but I'm willing to bet it's far more than I imagine and possibly the largest expense categorically.
+
+
+To ensure that insurance premiums remain as low as possible, these security measures of closing vulnerabilities and the use of Enforcing mode, just to name two examples, are absolutely necessary.
+
+
+The fact is, insurance companies rule the world. Did I hear someone say, "Banks!"...? Would that be insured or uninsured banks?
+
+*
+
+That was certainly more information than necessary, while at the same time extremely brief and broad. Information and discussion on SElinux modes can easily be resourced online and there is no official recommendation from the team. This is a user-decided setting preference, with the exception of one or more Add-Ons requiring a Permissive mode to function are installed with the Add-Ons for Deuteronomy 2.4 zip.
+
+*
+
+This permissive.prop, when placed or renamed as /system/usr/triggers/permissive_YES.prop before flashing the sound system zip in recovery, will instruct the installation script to set SElinux to Permissive mode via a /system/su.d script. SuperSU is the required root management app for this script to function.
+
+*
+
+Permissive mode is especially useful when apps seem to lack a bit or even full functionality. Not a guaranteed hole-in-one, but a very easy setting to test back-and-forth (Enforcing > Permissive > Enforcing) when debugging an app's seemingly shortcomings.
+
+
+
+Delete /system/su.d/permissive and reboot to return to Enforcing mode at any time, if desired.
+
+
+
+Do know, that SDK 21 and above require /system/su.d/arisesoundserver (replaced by /system/su.d/permissive if the installation script deems necessary or instructed) for ViPER4Android functionality so ensure /system/su.d/arisesoundserver exists with 0700 permissions before rebooting if deleting /system/su.d/permissive.
+
+
+- gh

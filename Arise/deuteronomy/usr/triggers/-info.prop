@@ -1,0 +1,56 @@
+
+# ARISE Sound Systems™
+#
+# /triggers
+#
+# www.arisesound.com
+
+
+*
+
+
+The ***.prop triggers in this folder will instruct the installation script to do the following when renamed by adding "_YES" before flashing the Add-Ons zip in recovery:
+
+
+*
+
+ - /system/am3d_YES.prop = The AM3D™ Zirene Add-On, courtesy of ahrion@arisesound.com, will be part of the sound system installation.
+   *Permissive SElinux is forced.
+
+
+*
+
+ - /system/atmos_YES.prop = One of two Dolby Atmos™ Add-On's will be part of the sound system installation:
+
+  - LeMax Dolby Atmos™ courtesy of ahrion@arisesound.com for Marshmallow and above firmware.
+    *Permissive SElinux is forced.
+
+  - Dap_r6.5 Dolby Atmos™ courtesy of @worstenbrood for Lollipop and below firmware.
+
+
+*
+
+ - /system/ddplus_YES.prop = The Dolby™ Digital Plus add-on, courtesy of @thereassaad @XDA Developers, will be installed with the sound system installation.
+   *Permissive SElinux is forced.
+
+
+*
+
+ - /system/sony_YES.prop = The Sony™ Music Suite add-on prepared by guitardedhero@arisesound.com will be installed with the sound system installation.
+
+
+*
+
+ - /system/xhifi_YES.prop = The discontinued ViPER4Android XHiFi will be installed with the sound system installation.
+
+*
+
+ - /system/deep_buffer_YES.prop = Automatic removal of "deep_buffer" and "raw" sections of various audio_policy files will be part of the sound system installation. Useful for inconsistent ViPER4Android processing among various media and players.
+
+
+*
+
+ - /system/permissive_YES.prop = SElinux set as Permissive mode via /system/su.d/permissive script executed by SuperSU during each device boot.
+
+
+*

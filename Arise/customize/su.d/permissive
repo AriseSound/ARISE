@@ -1,0 +1,10 @@
+#!/system/bin/sh
+#
+# ARISE Sound Systems™
+#
+# Permissive Selinux script
+
+setenforce 0
+
+exit 0
+

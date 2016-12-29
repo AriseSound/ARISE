@@ -1,0 +1,20 @@
+
+# ARISE Sound Systems™
+#
+# deep_buffer.prop
+#
+# www.arisesound.com
+
+
+
+deep_buffer is a commonly used audio output for streaming media on current devices. However, its inclusion in /system/etc/audio_policy.conf and similar files can prevent ViPER4Android processing in some cases.
+
+*
+
+A script to remove any deep_buffer entries from these files during the sound system installation can be activated by copying this file and/or renaming to deep_buffer_YES.prop to result with:
+
+  /system/usr/triggers/deep_buffer_YES.prop.
+
+*
+
+Only recommended if experiencing no ViPER4Android processing during streaming media playback.

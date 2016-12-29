@@ -1,0 +1,13 @@
+
+# ARISE Sound Systems™
+#
+# ddplus.prop
+#
+# www.arisesound.com
+
+
+
+The ddplus.prop, when placed or renamed as /system/ddplus_YES.prop, will instruct the sound system installation script to install the Dolby™ Digital Plus add-on from @thereassaad @XDA Developers with the standard sound system.
+
+
+If desiring only the standard sound system installation , simply ensure this file does not exist as /system/ddplus_YES.prop before installing the sound system zip.

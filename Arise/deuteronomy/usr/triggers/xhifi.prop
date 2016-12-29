@@ -1,0 +1,16 @@
+
+# ARISE Sound Systems™
+#
+# xhifi.prop
+#
+# www.arisesound.com
+
+
+
+The xhifi.prop, when placed or renamed as /system/xhifi_YES.prop, will instruct the sound system installation script to install ViPER4Android XHiFi with the standard sound system.
+
+
+##
+
+
+If desiring only the standard sound system installation , simply ensure this file does not exist as /system/xhifi_YES.prop before installing the sound system zip.

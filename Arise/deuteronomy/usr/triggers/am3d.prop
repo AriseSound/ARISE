@@ -1,0 +1,18 @@
+
+# ARISE Sound Systems™
+#
+# am3d.prop
+#
+# ahrion@arisesound.com
+#
+# www.arisesound.com
+
+
+
+The am3d.prop, when placed or renamed as /system/atmos_YES.prop, will instruct the sound system installation script to install the AM3D™ add-on from ahrion with the standard sound system.
+
+http://forum.xda-developers.com/android/software/soundmod-axon-7-dolby-atmos-t3412342
+
+#
+
+If desiring only the standard sound system installation , simply ensure this file does not exist as /system/am3d_YES.prop before installing the sound system zip.

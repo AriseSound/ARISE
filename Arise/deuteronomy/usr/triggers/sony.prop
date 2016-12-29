@@ -1,0 +1,16 @@
+
+# ARISE Sound Systems™
+#
+# sony.prop
+#
+# www.arisesound.com
+
+
+
+The sony.prop, when placed or renamed as /system/sony_YES.prop, will instruct the sound system installation script to install the Sony™ Music Suite add-on with the standard sound system.
+
+
+##
+
+
+If desiring only the standard sound system installation , simply ensure this file does not exist as /system/sony_YES.prop before installing the sound system zip.
