@@ -56,8 +56,9 @@ set_perm_recursive() {
 
 set_metadata() {
   file="$1";
-  shift;
-  until [ ! "$2" ]; do
+  if [ -e $file ]; then
+    shift;
+    until [ ! "$2" ]; do
     case $1 in
       uid) chown $2 $file;;
       gid) chown :$2 $file;;
@@ -65,23 +66,24 @@ set_metadata() {
       capabilities) ;;
       selabel)
       if [ -d "/system/system" ]; then
-        for i in /system/system/bin/toybox /system/system/toolbox /system/system/bin/toolbox; do
-          LD_LIBRARY_PATH=/system/system/lib $i chcon -h $2 $file;
-          LD_LIBRARY_PATH=/system/system/lib $i chcon $2 $file;
-        done;
+      for i in /system/system/bin/toybox /system/system/toolbox /system/system/bin/toolbox; do
+        LD_LIBRARY_PATH=/system/system/lib $i chcon -h $2 $file;
+        LD_LIBRARY_PATH=/system/system/lib $i chcon $2 $file;
+      done;
       else
-        for i in /system/bin/toybox /system/toolbox /system/bin/toolbox; do
-          LD_LIBRARY_PATH=/system/lib $i chcon -h $2 $file;
-          LD_LIBRARY_PATH=/system/lib $i chcon $2 $file;
-        done;
+      for i in /system/bin/toybox /system/toolbox /system/bin/toolbox; do
+        LD_LIBRARY_PATH=/system/lib $i chcon -h $2 $file;
+        LD_LIBRARY_PATH=/system/lib $i chcon $2 $file;
+      done;
       fi
-        chcon -h $2 $file;
-        chcon $2 $file;
+      chcon -h $2 $file;
+      chcon $2 $file;
       ;;
       *) ;;
     esac;
     shift 2;
-  done;
+    done;
+  fi
 }
 
 set_metadata_recursive() {
