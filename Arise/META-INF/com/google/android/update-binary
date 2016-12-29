@@ -27,10 +27,7 @@ SYS=/system
 
 if [ -d "/system/system" ]; then
   ui_print "Device found as Pixel. Using /system/system instead of /system"
-	mount /vendor
 	SYS=/system/system
-else
-  SYS=/system
 fi
 
 set_perm() {
@@ -253,6 +250,8 @@ ANGL=$(cat $SYS/build.prop | grep "ro.product.name=angler")
 BULL=$(cat $SYS/build.prop | grep "ro.product.name=bullhead")
 FLOU=$(cat $SYS/build.prop | grep "ro.product.name=flounder")
 SHAMU=$(cat $SYS/build.prop | grep "ro.product.name=shamu")
+MARL=$(cat $SYS/build.prop | grep "ro.product.model=marlin")
+SAIL=$(cat $SYS/build.prop | grep "ro.product.model=sailfish")
 X86=$(cat $SYS/build.prop | grep "ro.product.cpu.abi=x86")
 X8664=$(cat $SYS/build.prop | grep "ro.product.cpu.abi=x86_64")
 API=$(cat $SYS/build.prop | grep "ro.build.version.sdk=" | dd bs=1 skip=21 count=2)
@@ -262,8 +261,7 @@ SPR=set_perm_recursive
 SMR=set_metadata_recursive
 
 if [ "$ANGL" ] || [ "$BULL" ] || [ "$FLOU" ] || [ "$MARL" ] || [ "$SAIL" ]; then
-  umount /vendor
-  mount /vendor
+  safe_mount /vendor
 fi
 
 ui_print " "
@@ -691,7 +689,7 @@ $SM $MDTS uid 1013 gid 1005 mode 0770 capabilities 0x0 selabel u:object_r:dts_da
 
 rm -rf $ARISE
 
-cd data/media/0
+cd /sdcard
 
 if [ -e "$PROP" ]; then
   cp $PROP $SUD/$PROP
