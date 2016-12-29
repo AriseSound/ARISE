@@ -62,17 +62,6 @@ set_metadata() {
       mode) chmod $2 $file;;
       capabilities) ;;
       selabel)
-      if [ -d "/system/system" ]; then
-      for i in /system/system/bin/toybox /system/system/toolbox /system/system/bin/toolbox; do
-        LD_LIBRARY_PATH=/system/system/lib $i chcon -h $2 $file;
-        LD_LIBRARY_PATH=/system/system/lib $i chcon $2 $file;
-      done;
-      else
-      for i in /system/bin/toybox /system/toolbox /system/bin/toolbox; do
-        LD_LIBRARY_PATH=/system/lib $i chcon -h $2 $file;
-        LD_LIBRARY_PATH=/system/lib $i chcon $2 $file;
-      done;
-      fi
       chcon -h $2 $file;
       chcon $2 $file;
       ;;
@@ -94,17 +83,6 @@ set_metadata_recursive() {
       fmode) find "$dir" -type f -exec chmod $2 {} +;;
       capabilities) ;;
       selabel)
-      if [ -d "/system/system" ]; then
-        for i in /system/system/bin/toybox /system/system/toolbox /system/system/bin/toolbox; do
-          find "$dir" -exec LD_LIBRARY_PATH=/system/system/lib $i chcon -h $2 {} +;
-          find "$dir" -exec LD_LIBRARY_PATH=/system/system/lib $i chcon $2 {} +;
-        done;
-      else
-		for i in /system/bin/toybox /system/toolbox /system/bin/toolbox; do
-          find "$dir" -exec LD_LIBRARY_PATH=/system/lib $i chcon -h $2 {} +;
-          find "$dir" -exec LD_LIBRARY_PATH=/system/lib $i chcon $2 {} +;
-        done;
-      fi
       fir
         find "$dir" -exec chcon -h $2 '{}' +;
         find "$dir" -exec chcon $2 '{}' +;
