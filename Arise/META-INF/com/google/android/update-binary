@@ -8,6 +8,8 @@
 OUTFD=/proc/self/fd/$2;
 ui_print() { echo -e "ui_print $1\nui_print" > $OUTFD; }
 
+Changes
+
 safe_mount() {
 	IS_MOUNTED=$(cat /proc/mounts | grep "$1")
 	if [ "$IS_MOUNTED" ]; then
