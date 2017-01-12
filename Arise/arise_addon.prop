@@ -1,0 +1,42 @@
+
+# ARISE Sound Systems™
+#
+# /sdcard/arise_addon.prop
+#
+# www.arisesound.com
+
+
+
+# The Add-Ons zip works by using this file (when present in /sdcard as /sdcard/arise_addon.prop) to determine if any add-ons are to be installed by the value of "true" for each line below.
+
+
+
+# Add <true> to desired add-on(s): xxxx.install=true
+
+
+deep_buffer=
+
+
+permissive=
+
+
+atmos.install=
+
+
+ddplus.install=
+
+
+am3d.install=
+
+
+sony.install=
+
+
+xhifi.install=
+
+
+ICEsound.install=
+
+# Add 0, 1, 2, 3, or 4 for desired ICEconfig.
+
+ICEconfig=
