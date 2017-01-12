@@ -14,29 +14,29 @@
 # Add <true> to desired add-on(s): xxxx.install=true
 
 
-deep_buffer=
+del.deep_buffer=
 
 
-permissive=
+set.permissive=
 
 
-atmos.install=
+install.atmos=
 
 
-ddplus.install=
+install.ddplus=
 
 
-am3d.install=
+install.am3d=
 
 
-sony.install=
+install.sony=
 
 
-xhifi.install=
+install.xhifi=
 
 
-ICEsound.install=
+install.ICEsound=
 
 # Add 0, 1, 2, 3, or 4 for desired ICEconfig.
 
-ICEconfig=
+use.ICEconfig=
