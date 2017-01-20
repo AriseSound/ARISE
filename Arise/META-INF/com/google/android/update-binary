@@ -41,8 +41,6 @@ fi
 if [ ! -d "$SYS/vendor" ]; then
   safe_mount /vendor
   VEN=/vendor
-elif [ -d "$SYS/vendor" ] || [ -L "$SYS/vendor" ]
-  VEN=$SYS/vendor
 else
   VEN=$SYS/vendor
 fi
