@@ -1,75 +1,72 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: 0xx1qZglCtrujOLF27zKcJXSmPE=
+SHA1-Digest-Manifest: EYUW0wi38aDMtXFC4qvZNAOfsYI=
 
-Name: customize/lib/armeabi/libTarsosDSP.so
-SHA1-Digest: k5vC09Uh25T3uW5AKGxVV0gmviQ=
+Name: customize/huawei/vendor/lib/libeaglecore.so
+SHA1-Digest: vYxvCUIJD6wru3EiCaL+LXfRFzY=
 
-Name: deuteronomy/lib/libdts-eagle-shared.so
-SHA1-Digest: gIM1RJ0UtHJfUN1riSks96eZqWI=
+Name: sdcard/ViPER4Android/Kernel/srs_audio_sandbox_03_music_headset_InDaClub+Headphone360.irs
+SHA1-Digest: 18fP2Avcu+PilDXonJkrzCqgXDg=
 
-Name: customize/customize_information.prop
-SHA1-Digest: 7nyKvZ7Ob1J86QiQB4uoQiIJnaY=
+Name: customize/huawei/system/etc/audio/modem/modem_NATASHA_normal.xml
+SHA1-Digest: TL1RjqDYb52pIljhYhoyCEpAb2g=
 
-Name: customize/ViPER4Android/Kernel/srs_1_1.irs
-SHA1-Digest: aVqYcODmvHwcA5iMQ7Nx8LBpPNA=
+Name: customize/huawei/system/bin/dts_hpx_service
+SHA1-Digest: klN33hbKIi1+8vkUPHZlVs0U55M=
 
-Name: customize/lib/armeabi/libmars-featureclient.so
-SHA1-Digest: B6tK1PonwIZ5U+kokiMDPEzAJRs=
+Name: deuteronomy/usr/share/alsa/pcm/dmix.conf
+SHA1-Digest: bQ4GMwdKfyGqdVXzSUykgNWtczk=
 
-Name: sources/Vivo V3 Max/Qualcomm/build.prop
-SHA1-Digest: TJYTXNPUeRqdpOFWEBsqE68VIa8=
+Name: customize/huawei/system/etc/srs/models.txt
+SHA1-Digest: HMVyn0fQqBohrIxT6F3gM+nor5k=
 
-Name: deuteronomy/usr/triggers/am3d.prop
-SHA1-Digest: VbGvx0MSde6Alqocl+4gpR150QU=
+Name: deuteronomy/usr/share/alsa/pcm/dsnoop.conf
+SHA1-Digest: 9kDKrZKdIM+EFRF0L/dBpAUXp4U=
 
-Name: customize/ViPER4Android/Kernel/srs_2_2_indaclub+headset.irs
-SHA1-Digest: 6cRDq2wY8Jb4SuwCMyv+StLGB80=
+Name: sdcard/ViPER4Android/Kernel/DFX Classic Solo Piano.irs
+SHA1-Digest: xF+H6q0OgkXP2HOA0PiUITN2FWI=
 
-Name: customize/ViPER4Android/Kernel/srs_audio_sandbox_02_music_headset_InDaClub+WowHd.irs
-SHA1-Digest: 40olqenQXJ5EJikUvDErllAU00s=
+Name: customize/huawei/system/etc/dts/lineout_7
+SHA1-Digest: tVJdauo2GGtQN53UV1iGP901Ec4=
 
-Name: customize/lib/armeabi/asus/libeffectproxy.so
-SHA1-Digest: BBTAR9Rsr+n7AwvMr/LuGAV/smw=
-
-Name: deuteronomy/lib/libhpx-lite-sdk.so
-SHA1-Digest: eKoz7/T85aEjfT5HMvLdAFJ8Puk=
-
-Name: customize/lib/armeabi/sony/libvisualizer.so
-SHA1-Digest: eFpsPGwPeUGqbayyHydzwKHoMLg=
+Name: customize/huawei/system/etc/dts/bluetooth_4
+SHA1-Digest: y5AV1awR5bYaMsYOtG/xTAIs4js=
 
 Name: deuteronomy/lib/libstagefright_soft_dsddec.so
 SHA1-Digest: 1XaKbUIzdgocC3jmQHcW/hNTOjU=
 
-Name: customize/ViPER4Android/Kernel/SRS_2_1_Normal_headphone.irs
-SHA1-Digest: v2Jqguza02NtWglIvxTk1Tceq70=
+Name: sdcard/ViPER4Android/Kernel/DFX Jazz Acoustic.irs
+SHA1-Digest: Or4AVe3NW+K1ubNCBkpzsljvEjc=
 
-Name: customize/app/ViPER4Arise.apk
-SHA1-Digest: azFB5DgiDfukXS1E2uOKKb9XgYY=
+Name: sdcard/ViPER4Android/Kernel/DFX Hip Hop Modern.irs
+SHA1-Digest: gT44WM2wsEdYYT+BOoELpqY+KCk=
 
-Name: customize/ViPER4Android/Kernel/DFX Steamcast Low Bitrate Music.irs
-SHA1-Digest: VldIU6MP5bi65mFhx9TU1+NWXOM=
-
-Name: customize/lib64/mtk/soundfx/libbbesonicmax.so
-SHA1-Digest: o6eW3gKyNTlHg+R6WVxD5RP7KT8=
-
-Name: customize/ICEconfigs/ICEconfig_1/icesoundconfig.def
-SHA1-Digest: aqM/gRCg7UdTT5bnrzOntwOf7jM=
+Name: customize/huawei/system/etc/audio/modem/modem_KNIGHT_gcf.xml
+SHA1-Digest: blKc1/4//oREvF/Kr32ZiNUVqRg=
 
 Name: customize/lib/armeabi/sony/libznrwrapper.so
 SHA1-Digest: /uO9yen+tiU/4fFqtS1Ac/asHRo=
 
-Name: deuteronomy/bin/dts_hpx_service
-SHA1-Digest: 5FAsR06jywTIIPCT96cJuEh8npY=
+Name: customize/huawei/system/etc/audio/modem/modem_EVA_unicomiot.xml
+SHA1-Digest: J40+soOjYaUR6FMY2kF0Tmynmm4=
 
-Name: customize/lib/armeabi/sony/libaudiopreprocessing.so
-SHA1-Digest: xwP4+tv5BGFCdrkzh1NIk2wKhXg=
+Name: customize/lib/x86/asus_x86/soundfx/asus/libvisualizer.so
+SHA1-Digest: FittNRLsDUVm5PdVS/mayTjGess=
 
-Name: customize/ViPER4Android/Kernel/DFX Big Bass.irs
-SHA1-Digest: usAhp7QLnMRJTYlnlE1Gis4G/18=
+Name: deuteronomy/lib/libSpectrum.so
+SHA1-Digest: QRGrR44zq6UD0Cj6lRPzfHBzw/o=
 
-Name: customize/ViPER4Android/Kernel/srs_1_1_normal+stereo.irs
-SHA1-Digest: W6oD2zaQV4sPMQIDl72bgYRANF4=
+Name: customize/huawei/lib64/libhpx-lite-sdk-thin-jni.so
+SHA1-Digest: +qIOx+7VJ5Z2jCXTxACkY9zjJyA=
+
+Name: customize/huawei/system/etc/audio/dts/dts_default.xml
+SHA1-Digest: nmowg17Z0gWPj+yw9Y0cyAuIz0Y=
+
+Name: customize/huawei/system/etc/audio/algorithm/algorithm_FRD_normal.xml
+SHA1-Digest: Hh6xImleImWOBymJ2rMNpHFF3aw=
+
+Name: sdcard/ViPER4Android/Kernel/DFX Steamcast Low Bitrate Music.irs
+SHA1-Digest: ap0B78rPZ6xNYBR5tYNpvKKcJYI=
 
 Name: customize/lib/armeabi/asus/libqcbassboost.so
 SHA1-Digest: jZxW6fUrbaZ/Iz5M1/brkUTtbdU=
@@ -77,53 +74,29 @@ SHA1-Digest: jZxW6fUrbaZ/Iz5M1/brkUTtbdU=
 Name: customize/lib64/armeabi/libsomcmediahttp.so
 SHA1-Digest: g+pF6zF9a+bIl78Os+1U+NMX6CY=
 
-Name: deuteronomy/usr/triggers/atmos.prop
-SHA1-Digest: kTjq3hCWgrAGgYZ1o1xAH4NLm9M=
+Name: customize/huawei/system/etc/audio/dts/ascend_dts_algo_GRACE_UL_normal.xml
+SHA1-Digest: 9BtWjLCCGaBUzeEJ/ta4W1ahCEI=
 
-Name: customize/ViPER4Android/Kernel/srs_2_1_normal+headset.irs
-SHA1-Digest: R9YjA1ZTPFyoDuWzcR2OnU0nHd8=
+Name: customize/huawei/system/etc/audio/algorithm/algorithm_KNIGHT_normal.xml
+SHA1-Digest: m/TFgegxBr3qBRXGrxMhHXdt3FM=
 
-Name: customize/lib/armeabi/libSuperpoweredLatency.so
-SHA1-Digest: RXIoL156aB9LHBFaoNZrqCZe1Y8=
+Name: customize/huawei/system/etc/audio/modem/modem_BEETHOVEN_gcf.xml
+SHA1-Digest: LzybgBUgOWVUIA648v2WhLmY16E=
 
-Name: customize/dts/speaker_4
-SHA1-Digest: ixfTsa9mNH+ebgukKJwOjdjsHLw=
+Name: customize/huawei/system/etc/audio/modem/modem_default.xml
+SHA1-Digest: vVyzxt3N3ZjCth/2Etegyygo/Dk=
 
-Name: customize/lib64/armeabi/libmars-service.so
-SHA1-Digest: 7lg0ZxNCXIoHKEaeBKY4fg49HBY=
+Name: customize/huawei/system/etc/audio/dts/dts_EDISON_normal.xml
+SHA1-Digest: PsvvBcrmnH7MHol3jQrVFb0whoE=
 
-Name: deuteronomy/lib/libstlport_sh_521.so
-SHA1-Digest: 38s1S04J8PajxWEa2ddFYXoef1o=
+Name: sdcard/ViPER4Android/Kernel/DFX Metal Rap Big Bass.irs
+SHA1-Digest: zZWqEdi6NArWi/+K8coR8a3wHWA=
 
-Name: deuteronomy/lib/libstlport_shared.so
-SHA1-Digest: ReE93nTsks2dJtjlCSWLkaBPc1M=
-
-Name: customize/dts/lineout_9
-SHA1-Digest: 6bL24z7tO05teESZVbRy3b4I+gE=
-
-Name: customize/srs/models.txt
-SHA1-Digest: SowOhN6os3fkUSl+n2c96Py5e0I=
-
-Name: customize/ViPER4Android/Kernel/srs_audio_sandbox_01_music_headset_InDaClub+TruSurroundXT.irs
-SHA1-Digest: T+tu89DWptYGwWMYGZ/jfrrPtpg=
-
-Name: customize/ViPER4Android/Kernel/SRS Audio HD (TruBass 50 + Dialog Clarity 50 + GEQ Acoustic).irs
-SHA1-Digest: gqnWsiC/22scDYLGMScLjQmeuKM=
-
-Name: customize/lib64/armeabi/libmars-audioparams.so
-SHA1-Digest: q4dll5HHtzMzeJGlugDlHXwnCPM=
-
-Name: customize/ViPER4Android/Kernel/DFX Mega Bass.irs
-SHA1-Digest: yKZxptldhiRYDHUqZHM7dGv4H+Y=
+Name: customize/huawei/system/etc/audio/modem/ascend_modem_algo_GRACE_TUGL_normal.xml
+SHA1-Digest: 9Tz8Sy4l8hoF4KlanvpDKlg1ov4=
 
 Name: customize/lib/armeabi/asus/libaudiopreprocessing.so
 SHA1-Digest: iiEvORg2hyzJmSyhim1VPnDatWw=
-
-Name: customize/ViPER4Android/Kernel/SRS_2_2_InDaClub Bass_headphone.irs
-SHA1-Digest: 1Qvsl2+zVPSd/ufEc0tn8r2pAUs=
-
-Name: customize/ViPER4Android/Kernel/DFX Country Young Country.irs
-SHA1-Digest: aTQmol2Ezf21fifqUmMKZ4/fqWE=
 
 Name: customize/lib/x86/libv4a_fx_jb_X86.so
 SHA1-Digest: Srtv+bijTrkMvYZMhGknqJVr1eo=
@@ -131,47 +104,32 @@ SHA1-Digest: Srtv+bijTrkMvYZMhGknqJVr1eo=
 Name: deuteronomy/lib/libharman.so
 SHA1-Digest: /3yGhuMFF9jPqoAkDlkVk4BOhMs=
 
-Name: customize/ViPER4Android/Kernel/DFX Blues Vintage Electric.irs
-SHA1-Digest: JVnIoijJnt0BNd1J3dnPDqwp6C0=
-
-Name: deuteronomy/usr/triggers/xhifi.prop
-SHA1-Digest: 51Rqn72BCPu1O8QX5BgkU75e9u4=
-
-Name: customize/lib/armeabi/libmars-service_jni.so
-SHA1-Digest: x9Em3lg+HMcdnaGFc4dwanSbGyY=
-
-Name: deuteronomy/lib/libaudioom.so
-SHA1-Digest: fj6KoZrZGl/gQIKkqpiYkZFbj3Q=
-
-Name: deuteronomy/lib/DolbySurroundModule.so
-SHA1-Digest: fym5VhTH+FZ40lJH67cKo/bKpRw=
-
-Name: customize/ViPER4Android/Kernel/SRS_1_2_InDaClub Bass_stereo.irs
-SHA1-Digest: WZa2lPuJSi1Pye6g9EJp8Uv1Bwc=
+Name: customize/huawei/system/etc/audio/sws/sws_BEETHOVEN_normal.xml
+SHA1-Digest: xJjfU5OSf1M0772Oof67ZW9poIw=
 
 Name: sources/Meizu M3 Note/build.prop
 SHA1-Digest: myY0Lmg8BEIRpUkakzJGmnnKHpc=
 
+Name: customize/lib/x86/libicepower.so
+SHA1-Digest: QEgXZKEqnJpVBkcgkWpx2AjUP8w=
+
+Name: customize/huawei/system/etc/audio/modem/modem_EDISON_normal.xml
+SHA1-Digest: BDcx1Slh3dN3/xxeNFgbmyc/5Tk=
+
 Name: customize/lib/armeabi/asus/libreverbwrapper.so
 SHA1-Digest: weODy90PEirUc4e1MkMPZM48YwY=
 
-Name: customize/dts/dts-m6m8-lic.key
-SHA1-Digest: Op5x/u6r8EGvVw/+2CO87jlpYqA=
+Name: customize/huawei/system/etc/dts/bluetooth_2
+SHA1-Digest: mwjR8B6go6EDdFOVRZwhmSA3WHI=
 
 Name: customize/lib64/armeabi/asus/libqcvirt.so
 SHA1-Digest: txiMds2W8imiWBRcCjMUfsLddRg=
 
-Name: customize/dts/lineout_0
-SHA1-Digest: YhBChZmOd+0WVRGZpJ54mN2VCFU=
+Name: customize/huawei/system/lib/libDoreso.so
+SHA1-Digest: qbNeFPzeUFWsTHcVzhVsr8yMQs4=
 
-Name: customize/dts/lineout_5
-SHA1-Digest: Mu2ujZzufVGMt9zP7BPqnWo9e98=
-
-Name: deuteronomy/lib/libmwsound.so
-SHA1-Digest: XbbIEjk1am1/3dYxfPXloTqMC1w=
-
-Name: META-INF/com/google/android/updater-script
-SHA1-Digest: tLgBaUmk0ImSlk+t55uvNZlijaA=
+Name: customize/huawei/system/etc/audio/dts/dts_VIENNA_normal.xml
+SHA1-Digest: WSh/DxkV9lmTnjmp7bPQu/rWDxQ=
 
 Name: customize/lib/armeabi/asus/libqcvirt.so
 SHA1-Digest: dbrJQcz+h/4AWzO1O0ooTlS+kOk=
@@ -185,68 +143,74 @@ SHA1-Digest: Ez11P0qt1aZr57h9DHVOJaPkSCE=
 Name: sources/Asus Zenfone 3 Ultra/build.prop
 SHA1-Digest: 2n+7vERzlHCvUDIpLO+sGwUdQ64=
 
-Name: customize/ViPER4Android/Kernel/DFX Concert Hall Ambience.irs
-SHA1-Digest: PFUhOv3ChGR+tR8yYk59zYFkCrc=
+Name: customize/huawei/system/etc/audio/dts/ascend_dts_algo_hi3635_normal.xml
+SHA1-Digest: 7qYaVp15ZMmtKqUyeNixJqQylok=
 
-Name: customize/ViPER4Android/Kernel/SRS_1_1_Normal_stereo.irs
-SHA1-Digest: zV83DhDl5CpDGYF5agN/SUktO/g=
+Name: customize/huawei/system/etc/sws/sws_config.txt
+SHA1-Digest: l6GHYhAy0micvMPYJWyftcYoMRE=
 
-Name: customize/ViPER4Android/Kernel/DFX Blues Morden Electric.irs
-SHA1-Digest: 7ltbuQIA8xV0p+4tzN1xfq45ve8=
-
-Name: customize/dts/lineout_1
-SHA1-Digest: zpHtBEb9oN0CMtWk53gVvjMR2vc=
+Name: customize/huawei/system/lib/libaudio_custom.so
+SHA1-Digest: HxrLF07TLDoVN74eqNOPalgKbqk=
 
 Name: sources/vendor_sources.prop
 SHA1-Digest: MIqGdNbXVEprFDPh/ApOrP5b6Uo=
 
-Name: deuteronomy/lib/libstlport_sta.so
-SHA1-Digest: vW9Ywrzz8lHlBZ8KuTcXKAvIhh0=
+Name: customize/huawei/system/etc/audio/modem/modem_NEXT_telecomiot.xml
+SHA1-Digest: kXFxyPdzvzhekmZmwMyPnvFNeP0=
 
 Name: deuteronomy/lib/libaurostat.so
 SHA1-Digest: dVX6hlf5sbqUaTCavxmIJx1svT8=
 
-Name: customize/ViPER4Android/Profile/Audiophile X/com.vipercn.viper4android_v2.speaker.xml
-SHA1-Digest: JFkvISjRMToHjfIJNir9RqNYWa8=
-
-Name: deuteronomy/lib/libval_2.0.so
-SHA1-Digest: Vv8toLqkycO4Ls3+BXSq5gyCDJs=
-
-Name: deuteronomy/lib/libstagefright_soft_lddpdec.so
-SHA1-Digest: XRSW1aqvQ2tahbf4Pm/Y+lMN1sc=
-
 Name: customize/lib/x86/libFrequencyDomain.so
 SHA1-Digest: L1sBkQunKAhu2HlsavlnRXWuvVc=
 
-Name: customize/dts/bluetooth_2
-SHA1-Digest: 8qCbMV5QomdyQxcu0IKpPn98w50=
+Name: sdcard/ViPER4Android/Kernel/srs_1_1.irs
+SHA1-Digest: kEClHDZyfPxlktlu7Oo/MXPxv4A=
+
+Name: customize/huawei/system/etc/dts/res/AM116.jpg
+SHA1-Digest: b54vCh8I76uusV3nnXHjvXNMGmM=
+
+Name: deuteronomy/usr/share/alsa/pcm/surround51.conf
+SHA1-Digest: 7f3v27TS9nLvgs3nNN4XPKFf7TA=
 
 Name: META-INF/com/google/android/update-binary
-SHA1-Digest: wYHCtSIMXycTIWxJhf1OhfI7VGk=
+SHA1-Digest: A8pZGQv0ScU9ZryB6nCxkGxfv/s=
 
-Name: customize/dts/lineout_7
-SHA1-Digest: mLMZFUmFrLIHJM4Js0g9V+5aQPc=
+Name: customize/huawei/system/etc/audio/algorithm/algorithm_hi3635cs_normal.xml
+SHA1-Digest: ZlvfnwPJNPV4W1OiO86Oy6sSxCI=
+
+Name: sdcard/ViPER4Android/Kernel/srs_audio_sandbox_01_music_headset_InDaClub+TruSurroundXT.irs
+SHA1-Digest: qXuUufydKiv4XFZgz3Nc3fWCJYs=
 
 Name: sources/LG G5/build.prop
 SHA1-Digest: zV791VTjb6YylQoFHyiWM1KPOZY=
 
-Name: deuteronomy/lib/soundfx/boutique/libeagle.so
-SHA1-Digest: nioBxhH0FrAvwTkEki64eeM8XYY=
+Name: deuteronomy/usr/share/alsa/alsa.conf
+SHA1-Digest: kBYS8VBILIJTl0IiVFXBRAdYTzA=
 
-Name: deuteronomy/lib/soundfx/boutique/libsrs.so
-SHA1-Digest: owX6CeGCRd0I5FtTp0/ybQ3GlVU=
+Name: customize/huawei/system/etc/audio/modem/modem_VIENNA_normal.xml
+SHA1-Digest: 6hoYnAbgQPLHc61d7nds8KJJKMQ=
 
-Name: sources/Nextbit Robin/build.prop
-SHA1-Digest: K2OjUQlcNzq4IvzqJClAqMx3UtU=
+Name: sdcard/ViPER4Android/Kernel/DFX Light Processing 2.irs
+SHA1-Digest: VZSh42pjVpwVWKN9zMrYHHLxfkM=
 
-Name: deuteronomy/lib/DolbyMobileModule.so
-SHA1-Digest: 5ghT7DKzRQYrDly1cUkazIIQ1OM=
+Name: sdcard/ViPER4Android/Kernel/DFX Jazz Electric.irs
+SHA1-Digest: 7UxaB5blVWvxqvsnU1iu260QgjY=
+
+Name: customize/huawei/system/etc/dts/res/AM12.jpg
+SHA1-Digest: pbkaRUnvczBGieHvEGJiGuTzfvc=
+
+Name: deuteronomy/lib/libmaxxaudio_jni.so
+SHA1-Digest: DoviSlKUwRGFlzb2c7ZFe707324=
+
+Name: sources/Huawei Mediapad M3/build.prop
+SHA1-Digest: 7IJpqeXCjR6tZ4DwaoKllWUtEgA=
 
 Name: customize/lib/armeabi/sony/libbundlewrapper.so
 SHA1-Digest: mIQTCYtaA5iiikGIyXnkKRQbNUE=
 
-Name: deuteronomy/lib/soundfx/boutique/libbbesonicmax.so
-SHA1-Digest: WMzdQOgfwXY2YwOfhyi9X02IhxM=
+Name: deuteronomy/ARISE_version.prop
+SHA1-Digest: JLuNd72g0FYlSZJ7XWmnSw/4YIM=
 
 Name: customize/lib/armeabi/sony/libldnhncr.so
 SHA1-Digest: KR4t0BUUXicMrlK/fQI/VyNLvy8=
@@ -254,62 +218,53 @@ SHA1-Digest: KR4t0BUUXicMrlK/fQI/VyNLvy8=
 Name: customize/lib/armeabi/sony/libsonypostprocbundle.so
 SHA1-Digest: p5jWUOJ941kv3L4eiklDMzWEVio=
 
-Name: customize/su.d/permissive
-SHA1-Digest: 7jglwibzO6KSMyYK/kSUEoFzFs0=
-
 Name: customize/su.d/arisesoundserver
 SHA1-Digest: uRchNNlJhezUWb6YZpful520GBc=
 
-Name: customize/lib/armeabi/asus/libqcompostprocbundle.so
-SHA1-Digest: WdzX4CsdGG9tgMI6sc9EWxCHfJk=
+Name: customize/su.d/permissive
+SHA1-Digest: 5AnzwRMz7s1duwQbiFgg8dOq+xM=
+
+Name: customize/huawei/system/etc/audio/modem/modem_KNIGHT_telecomiot.xml
+SHA1-Digest: 7UfPBjWu1RbfpKQUGtkBTAo+DIo=
+
+Name: deuteronomy/usr/share/alsa/pcm/iec958.conf
+SHA1-Digest: b02CgpVkMbDPSFopYL6+kInHP80=
 
 Name: customize/lib/x86/libSuperpoweredLatency.so
 SHA1-Digest: eeXEkQNFSat4llYKxgM8H5dkv4c=
 
-Name: customize/dts/bluetooth_0
-SHA1-Digest: kEuKacWftkXpxnELdtQqx7QXivs=
-
-Name: customize/dts/tuning_configs
-SHA1-Digest: pvumzxp/NXMNNBKJ+CrCnz/SPd8=
-
-Name: customize/lib/armeabi/sony/libqcompostprocbundle.so
-SHA1-Digest: HHDahFT3iKZ6IAdb1qlmd7rryXM=
-
 Name: customize/lib64/armeabi/asus/libqcomvoiceprocessing.so
 SHA1-Digest: MxY5KchRFd60tn+a9iRobdaZ45g=
 
-Name: deuteronomy/lib/soundfx/boutique/libswdap.so
-SHA1-Digest: yLYtdXOLSstXBbTnlakb4jye2II=
+Name: sdcard/ViPER4Android/Kernel/srs_audio_sandbox_07_music_laptop_InDaClub+WowHd.irs
+SHA1-Digest: Zs1351ShpqcJvuUIOyceIJ0Lt04=
 
-Name: sources/Asus Zenfone 3 Deluxe/build.prop
-SHA1-Digest: fLmOkx2b/+atPbrZHidnrEjy/rY=
+Name: sdcard/ViPER4Android/Kernel/srs_1_1_normal+stereo-flatter.wav
+SHA1-Digest: UlJ48pK00klMzcbCChdzZh4hogs=
 
-Name: customize/ViPER4Android/Kernel/srs_audio_sandbox_07_music_laptop_InDaClub+WowHd.irs
-SHA1-Digest: flWC0yg89si/UlqRZ3NwI4m5zIM=
+Name: customize/huawei/lib64/libsws2processing.so
+SHA1-Digest: 46Ag6I2bHgHwOr83K7VkUgsfqOM=
 
-Name: customize/srs/srs_processing.cfg
-SHA1-Digest: Dv0OyABULMJzvA4RODdC5VGzxU4=
-
-Name: customize/ViPER4Android/Kernel/DFX Classic Symphonic.irs
-SHA1-Digest: hC3dj7WozGBKC12+5BjXv5x7SkA=
+Name: deuteronomy/usr/share/alsa/pcm/modem.conf
+SHA1-Digest: ANiTqGbxrJDHHTqSVoEgnA14r2w=
 
 Name: deuteronomy/su.d/arisesound_setprop
-SHA1-Digest: hP9YawwMWqsldy6VLnMEp7MsZmc=
+SHA1-Digest: UteLRcH1/bVu4yeY+Ead1XX/ikk=
 
-Name: customize/ViPER4Android/Kernel/SRS Audio (Extreme TruBass).irs
-SHA1-Digest: Sq3w3PmuklDu6erCFz7ENecQGmQ=
+Name: sdcard/ViPER4Android/Kernel/srs_hd_audio_lab_03_music_soundsys_channel_2.0.irs
+SHA1-Digest: 6xgKh4QAeOAghAFYt4ULuhVlxAg=
 
-Name: deuteronomy/lib/libval_common.so
-SHA1-Digest: jovWLgh4SGYFxJLWi4N64Bf5OZY=
+Name: customize/huawei/system/etc/audio/algorithm/algorithm_GRACE_UL_normal.xml
+SHA1-Digest: 6XcbKmR38v9etx9yZCQrzyEG4Bg=
 
 Name: customize/lib64/armeabi/asus/libqcreverb.so
 SHA1-Digest: qkTf7anNCf+cU5YFeEZr7j2AiXI=
 
-Name: customize/ViPER4Android/Kernel/srs_hd_audio_lab_04_music_soundsys_channel_2.1.irs
-SHA1-Digest: ri503NKh8V2efu0mGzwP9W3hNvM=
+Name: customize/huawei/system/etc/audio/sws/sws_BEETHOVEN-DCO_normal.xml
+SHA1-Digest: +vlwm7iChUEZbMam1de7ON7G3HI=
 
-Name: customize/ViPER4Android/Kernel/srs_audio_sandbox_06_music_laptop_InDaClub+TruSurroundXT.irs
-SHA1-Digest: E/EfXLjwPF34v+Q/i//p5TMnKx4=
+Name: customize/huawei/system/lib/libhuaweiprocessing.so
+SHA1-Digest: 4dUQnHCU/K0O+XhWg035eEFqy+Y=
 
 Name: deuteronomy/lib/libsomcavextensionsimpl.so
 SHA1-Digest: MWpmoAA3f8CGR46HUDzlAWroJtU=
@@ -317,26 +272,29 @@ SHA1-Digest: MWpmoAA3f8CGR46HUDzlAWroJtU=
 Name: deuteronomy/lib/libstagefright_soft_somcdsddec.so
 SHA1-Digest: wuu1PhQajzFCv7FhOfORRQjyWh8=
 
-Name: deuteronomy/etc/stereo_aac.cnt
-SHA1-Digest: WtvyaJYoobHahVvLivckM9n1UQU=
-
 Name: customize/lib/armeabi/asus/libbundlewrapper.so
 SHA1-Digest: RBYLMCkMuqTSc3dqT4O9u20L5ok=
 
-Name: customize/srs/srsmodels.lic
-SHA1-Digest: /IvlgftmXUIbIVSBkD3TvJm6NWY=
+Name: customize/huawei/system/etc/audio/dts/dts_KEPLER_normal.xml
+SHA1-Digest: f3/0JgdBh09lFs5VnUzVjJ6Qzoo=
+
+Name: deuteronomy/lib/soundfx/deuteronomy/libspectrum.so
+SHA1-Digest: +q/HdOmufkIN+bD/B6gnUGh06+I=
+
+Name: customize/huawei/system/etc/audio/sws/sws_default.xml
+SHA1-Digest: 8+dQDXEh85kVmAy4/irK7dsqfCI=
 
 Name: customize/lib/armeabi/sony/libdownmix.so
 SHA1-Digest: IFbYGiuH/y7n/ZTQG341wvjHBzY=
 
+Name: sdcard/ViPER4Android/Kernel/DFX Classic Symphonic.irs
+SHA1-Digest: T9efUl3oYP1bETaA0XTvhJm92f4=
+
 Name: customize/lib64/armeabi/sony/libldnhncr.so
 SHA1-Digest: rqLHOqalYSluRsxxKDjfYEo5NXE=
 
-Name: deuteronomy/usr/triggers/-info.prop
-SHA1-Digest: 7sul3hOuhjfeU1pntz5v8pkl0Fc=
-
-Name: customize/lib/x86/libbt-aptX-x86-4.2.2.so
-SHA1-Digest: SLCLgeXWOZgbJMEUZWJ56FzDDjQ=
+Name: customize/huawei/system/etc/audio/modem/modem_BEETHOVEN-DCO_telecomiot.xml
+SHA1-Digest: RvxI6ydkcoskjLhv0xCZxBlhmjI=
 
 Name: customize/lib/armeabi/libAudioPluginSuperpoweredSpatializer.so
 SHA1-Digest: OM/OhCvFV+ECxz8RnSBa4B0dGGw=
@@ -347,32 +305,26 @@ SHA1-Digest: Am9n2cfiAzE1STeTFZvwIYguZ/k=
 Name: customize/lib64/armeabi/asus/libqcomvisualizer.so
 SHA1-Digest: Dtd493lah06zqnY5CEZFOZdAb7A=
 
-Name: customize/dts/bluetooth_5
-SHA1-Digest: /zGMPy8s73uPIxzNFfmiV0n1LI0=
-
-Name: customize/ViPER4Android/Kernel/srs_hd_audio_lab_06_music_soundsys_channel_7.1.irs
-SHA1-Digest: wXcYzXTSv6KHodBN09/DS/Vi4Fw=
+Name: customize/huawei/system/etc/dts/res/dts_standard_overear_small.png
+SHA1-Digest: K41NWna4EibG5XmKzsCb31thwaU=
 
 Name: deuteronomy/lib/libMAM2-wavesfx-Coretex_A9.so
 SHA1-Digest: aJkzc5ByJjYBnlpet2f0vppHUWI=
 
-Name: customize/ViPER4Android/Kernel/srs_2_1.irs
-SHA1-Digest: xalroOCWsaat/q4oMLK2eIvH/fQ=
+Name: sdcard/ViPER4Android/Kernel/DFX Large Ambience.irs
+SHA1-Digest: x5Ij1LY9/qpfkI/vPyqr5aSU3n4=
 
 Name: customize/lib64/armeabi/asus/libeffectproxy.so
 SHA1-Digest: eKk5OuEYDEImPV9t/MKyh+/KU70=
 
 Name: customize/audio_effects/qc/audio_effects.conf
-SHA1-Digest: VmvSCfekrxUWmI+s8MyBIXmQKw8=
+SHA1-Digest: 82r+9SZebG0W99GBWT+I4AohrWk=
 
 Name: customize/lib/armeabi/asus/libvisualizer.so
 SHA1-Digest: dWhGGy8JhkfW1V9OsDPizTN5WpE=
 
-Name: customize/lib/armeabi/libmars-audioparams.so
-SHA1-Digest: oJJE/IVSldB9lerWs7u4fhb/77E=
-
-Name: customize/ViPER4Android/Kernel/DFX MP3 Enhancer Hi Volume.irs
-SHA1-Digest: bnS/P1ao/77+sAbeWK05n6WboWQ=
+Name: customize/huawei/system/etc/audio/modem/modem_EDISON_telecomiot.xml
+SHA1-Digest: F/0K1LAigbwzP8iB85VbjOjf4kQ=
 
 Name: customize/lib/armeabi/libaudio-ftm.so
 SHA1-Digest: +8trfdANa7fdfYX7eCU5mcyqCU4=
@@ -383,11 +335,11 @@ SHA1-Digest: 2vCRvpKxxwPMZe2ed2AB3kcm/Qs=
 Name: customize/lib64/armeabi/asus/libbundlewrapper.so
 SHA1-Digest: FQd6Bv6RoJf43qnl85lN50cuxHU=
 
-Name: customize/dts/speaker_2
-SHA1-Digest: obk8KPl5hpUiuCBO6EuTZ3k/luA=
+Name: deuteronomy/usr/share/alsa/pcm/center_lfe.conf
+SHA1-Digest: ss/lbe3TLgaLSJ/nkQqPUgcU+Sw=
 
-Name: deuteronomy/etc/stereo_left.cnt
-SHA1-Digest: PxUPRH4vqhabJ14iRuYTyx3jdiQ=
+Name: customize/huawei/system/etc/dts/speaker_off
+SHA1-Digest: mcIKozDNaTH+5VboABG8MO+dUOs=
 
 Name: customize/lib64/armeabi/sony/libqcvirt.so
 SHA1-Digest: qyvPwZdv1TrvskXTRJbZ5M/uaQg=
@@ -395,158 +347,98 @@ SHA1-Digest: qyvPwZdv1TrvskXTRJbZ5M/uaQg=
 Name: deuteronomy/etc/maxxaudio_default.mps
 SHA1-Digest: 6kpcecUn8EXva78eb+NhjWffago=
 
+Name: customize/huawei/system/etc/dts/speaker_4
+SHA1-Digest: 0oJap3QCKJtAnpgOU5G0BPpjtMA=
+
 Name: customize/audio_effects/huawei/audio_effects.conf
-SHA1-Digest: suKQvgcJ2XCP1wp8/EAb0KVDVRw=
+SHA1-Digest: LqVQBpatV/9xVfTqFEWKIvcp8YE=
 
-Name: customize/ViPER4Android/Kernel/srs_hd_audio_lab_01_music_headset.irs
-SHA1-Digest: 0o7HxF3q5Gxf78M4mzQUP37+qs0=
+Name: customize/huawei/system/etc/audio/modem/ascend_modem_algo_GRACE_UL_normal.xml
+SHA1-Digest: pKRddhFEbocBxtCZKrTNflGFnyM=
 
-Name: customize/ViPER4Android/Kernel/DFX Hip Hop Modern.irs
-SHA1-Digest: kmEEH1OHdc19DFdP85y1ZKM4ck4=
+Name: customize/huawei/system/etc/audio/modem/modem_FRD_cmcciot.xml
+SHA1-Digest: t7GO0WstO/x9uBvWggX3gVmrPSg=
 
 Name: customize/lib/armeabi/asus/libqcomvisualizer.so
 SHA1-Digest: dbnRgdPVN7jjuBJjMSJMEWgMOGY=
 
-Name: deuteronomy/lib/soundfx/boutique/libAuro.so
-SHA1-Digest: zqtgyXdY/VMNBg8+9ej2aPzwc7o=
+Name: customize/huawei/system/etc/audio/modem/modem_FRD_unicomiot.xml
+SHA1-Digest: XGTlWRbY8rYTWSsjId7izHrQln4=
 
-Name: customize/ViPER4Android/Kernel/srs_hd_audio_lab_03_music_soundsys_channel_2.0.irs
-SHA1-Digest: CPvq8wO9zrNTiwbtNYbtq2SV0oA=
+Name: customize/lib/x86/asus_x86/libdts_hpx_service_c.so
+SHA1-Digest: morbdSYQjvBppEvmASvjLLCOLfI=
 
-Name: customize/lib/armeabi/asus/libldnhncr.so
-SHA1-Digest: 0bXjwoxQAwI+bc601Lz7OLZa2aA=
+Name: customize/huawei/system/etc/dts/lineout_3
+SHA1-Digest: q+a6b9u04HUR/+EDAFhU+XjGzd4=
 
-Name: customize/dts/dts-eagle.lic
-SHA1-Digest: LOetG86yPc/WVCefkkIyycUqaFw=
+Name: customize/huawei/system/etc/audio/modem/modem_NATASHA_cmcciot.xml
+SHA1-Digest: RyeXnhyiQF8Ha6dmnTSyZZlheJQ=
 
-Name: customize/ViPER4Android/Kernel/DFX Light Processing 2.irs
-SHA1-Digest: uOGCVOihVbSmCzxSpy+uRfNen7Y=
-
-Name: customize/ViPER4Android/Kernel/DFX Very Large Ambience.irs
-SHA1-Digest: R/5YZJsqzlwkQu2ZcAvuqZ0Rag8=
-
-Name: customize/ICEconfigs/ICEconfig_3/icesoundconfig.def
-SHA1-Digest: s/wPXiEykjQriuY6H1hmlB1bC58=
-
-Name: customize/ViPER4Android/Kernel/DFX Classic Rock.irs
-SHA1-Digest: HDUsiZtNanaX2hB9Jmt0EKlGEfo=
-
-Name: deuteronomy/lib/soundfx/boutique/libarkamys.so
-SHA1-Digest: MtmbZHZ1HX8My+FVO5e/RE1j99s=
+Name: customize/huawei/system/etc/audio/modem/modem_EVA_cmcciot.xml
+SHA1-Digest: zPhLN9M3e2L2+h4FJLzvR6F4s4Q=
 
 Name: customize/audio_effects/sony/audio_effects.conf
-SHA1-Digest: lzNvzSBoHAFM/VrFkWCHAb3YaB8=
-
-Name: customize/dts/lineout_2
-SHA1-Digest: yO4FkSJfzRaimoBclYc4qneL2LQ=
-
-Name: customize/lib64/armeabi/libsomcavextensionsimpl.so
-SHA1-Digest: Ykli84qdMBq6NQvPTsCFh8uO/M8=
+SHA1-Digest: 1zYtXCXi/W5arFBsENNBPTnUuik=
 
 Name: customize/lib64/armeabi/sony/libreverbwrapper.so
 SHA1-Digest: UHP32WZubdw/99fUJPkWQ4g4W9w=
 
-Name: customize/ViPER4Android/Kernel/DFX Light Processing 1.irs
-SHA1-Digest: KKJXjuMCM91T7vpul9+qcVufyn0=
-
-Name: customize/dts/speaker_off
-SHA1-Digest: pB/PPYedW3w0gfc5dW3BU3+4YLM=
-
 Name: customize/lib/armeabi/sony/libqcbassboost.so
 SHA1-Digest: GlwXT64KawdKago4e56O9mAiFwI=
 
-Name: customize/lib64/x86_64/libSuperpoweredLatency.so
-SHA1-Digest: RXep4stI16EH+LratTlUrf4uUCA=
+Name: sdcard/ViPER4Android/Kernel/DFX Very Large Ambience.irs
+SHA1-Digest: StkU2ebOiQV0AdcoUi1RdoPQ4cY=
 
-Name: customize/ViPER4Android/Kernel/srs_hd_audio_lab_02_music_laptop.irs
-SHA1-Digest: RHOQxL7jLzi8SCiPcG+y8yBdo58=
+Name: customize/huawei/system/etc/audio/modem/modem_EVA_lgukr.xml
+SHA1-Digest: PytF82Nefve5XJTWHJJFG7YIBQg=
 
-Name: customize/lib64/armeabi/sony/libvisualizer.so
-SHA1-Digest: UCIXGQc+/0Tl8ydntIxyFuWhsCc=
+Name: customize/huawei/system/etc/audio/dts/dts_EVA_normal.xml
+SHA1-Digest: uagqo2ilyU8LyEdrefTiLo/y2mc=
 
 Name: deuteronomy/lib/libiss_svc.so
 SHA1-Digest: KU10CUP1noc4QA8OhgIfbiV4H88=
 
-Name: customize/dts/lineout_8
-SHA1-Digest: oc6KgAcLLDhDpkoddI3nmM1qB2U=
+Name: customize/huawei/system/lib/libomx-dts.so
+SHA1-Digest: mkGOJfs+xXZwtYmdhHDi56Qdpmo=
 
-Name: customize/lib/armeabi/libV4AJniUtils.so
-SHA1-Digest: 1vG5SGTAe4QvTUSVN59fhzEiCss=
-
-Name: deuteronomy/framework/com.arkamys.audiofx.jar
-SHA1-Digest: ByPfDyRT3jZVAqsM/mMmldK6+o4=
-
-Name: deuteronomy/usr/triggers/deep_buffer.prop
-SHA1-Digest: GbkywanLulwhbRQL9g1GpBljn10=
+Name: deuteronomy/lib/libmars-audioparams.so
+SHA1-Digest: hlVJWhWIcgkgFSpmxHugHssVEpY=
 
 Name: customize/lib/armeabi/sony/libqcvirt.so
 SHA1-Digest: y/owimdS6Wan1odJz+rrTxFoIHM=
 
-Name: customize/lib64/armeabi/sony/libqcreverb.so
-SHA1-Digest: JXsWoXWQVOkz7yDHC/D1YIUj9wU=
-
-Name: customize/lib/armeabi/sony/libqcomvisualizer.so
-SHA1-Digest: G6XNmfNtZGPEUVIaFaWh/j1vGKc=
-
 Name: customize/lib64/armeabi/sony/libvolumelistener.so
 SHA1-Digest: YTN6++7+Dkd6eaWYg6kdCSND+4U=
+
+Name: customize/huawei/system/etc/audio/algorithm/algorithm_GRACE_TUGL_normal.xml
+SHA1-Digest: yOzIhxIma7uqz8mHifsNP2wUS6Y=
 
 Name: customize/lib/armeabi/libdrc.so
 SHA1-Digest: FDWlXU3qQoH60WfvAPMr/6PktRU=
 
-Name: customize/ViPER4Android/Kernel/SRS_2_2.irs
-SHA1-Digest: 1BBpTU0fnNNtKE0S0zYqZtATcbE=
-
 Name: deuteronomy/lib/libgnustl_shared.so
 SHA1-Digest: 5hzO0fCfnn4vcZA4AibUrAnBT9s=
 
-Name: customize/lib64/armeabi/libswsprocessing.so
-SHA1-Digest: IKhEso5tABki9C6yYKBgsOlI2KI=
+Name: deuteronomy/lib/soundfx/deuteronomy/libAuro.so
+SHA1-Digest: sRtkUFr9q7EleeghUKrgIFFibtQ=
 
-Name: deuteronomy/lib/libauroservice.so
-SHA1-Digest: RLiTkg4+VFwyFEYNQ4Kcy4vQw0Y=
+Name: customize/etc/drc/drc_cfg_AZ.txt
+SHA1-Digest: GcQoIHir1YZoMOqaT1UbaF5vkOU=
 
-Name: customize/ICEconfigs/ICEconfig_2/icesoundconfig.def
-SHA1-Digest: 5HV3Bruma5VPqZeZDoGjWHEY/eo=
+Name: customize/huawei/system/etc/audio/dts/ascend_dts_algo_default_normal.xml
+SHA1-Digest: QbjirhWXitjdCApsm8Ehk+wkuWM=
 
-Name: deuteronomy/etc/icesoundpresets.def
-SHA1-Digest: vR9tGAYt2KDnL7CsWuQy43Bl2PY=
+Name: customize/huawei/system/etc/audio/dts/dts_NATASHA_normal.xml
+SHA1-Digest: SH0qrcveWJ15+H1JGKGZW4LhDcY=
 
-Name: deuteronomy/ARISE_Version.prop
-SHA1-Digest: ZGJ3tlATzR6KpQSrcL5mkTRy+r8=
+Name: deuteronomy/usr/share/alsa/pcm/default.conf
+SHA1-Digest: DeIGSk5cmey1YIlcPo6Eg+a58dg=
 
-Name: customize/lib/armeabi/libhwdaphal.so
-SHA1-Digest: CRoEkhB0L0L38vKJ+KbpFIqQzxs=
+Name: customize/huawei/system/etc/audio/algorithm/ascend_algorithm_default.xml
+SHA1-Digest: KGZfBH0wCWYAqePwkUw/ULcdkgw=
 
-Name: customize/dts/speaker_3
-SHA1-Digest: EKGu0tTfuynIrV1uZq8DYQlEFsY=
-
-Name: customize/ViPER4Android/Kernel/DFX Jazz Acoustic.irs
-SHA1-Digest: KfvORnrZ5K9tvusbEUWLCUG5yx8=
-
-Name: customize/ViPER4Android/Kernel/DFX Metal Rap Hi Clarity.irs
-SHA1-Digest: oRY6xcAp+RXoBA+koC63QhdziL4=
-
-Name: customize/ViPER4Android/Kernel/DFX Classic Solo Piano.irs
-SHA1-Digest: JMkmSyW3vXTDSQ1rl7q1qgsjjU0=
-
-Name: customize/lib64/armeabi/asus/libdownmix.so
-SHA1-Digest: OCOv43h9UjZ8QxcsjZggtNA0AEA=
-
-Name: customize/dts/lineout_4
-SHA1-Digest: wVAwhcluODM7ZLPkuVSv6TXgJho=
-
-Name: deuteronomy/lib/libdts_hpx_service_c.so
-SHA1-Digest: Qmta89wCuXkI/I8NGU8omJxXWxg=
-
-Name: customize/lib/armeabi/asus/libdownmix.so
-SHA1-Digest: P2hv4BTC/72KhAmPJOpHF5qeGs8=
-
-Name: customize/ViPER4Android/Kernel/srs_1_2_indaclub+stereo.irs
-SHA1-Digest: GFj+bB8kucM18qjM43DtDGdfNYY=
-
-Name: customize/dts/lineout_6
-SHA1-Digest: EDzZCjesOWUWtedrSEkDy2FsLfA=
+Name: customize/huawei/system/etc/audio/modem/modem_BEETHOVEN_telecomiot.xml
+SHA1-Digest: VhoytZrgt3/WSfK+DaSmnEbOy8s=
 
 Name: customize/lib64/armeabi/asus/libvolumelistener.so
 SHA1-Digest: ABagedcTIy34qMbZbSews5IIS0I=
@@ -554,83 +446,59 @@ SHA1-Digest: ABagedcTIy34qMbZbSews5IIS0I=
 Name: deuteronomy/lib/libstagefright_soft_somcalacdec.so
 SHA1-Digest: k7jICRCciyAAoKXdLqU1fGW02mo=
 
-Name: deuteronomy/lib/libstagefright_soft_dtsdec.so
-SHA1-Digest: mxgp8MFo+PKBCFDRk3NP57/7l84=
+Name: customize/huawei/vendor/lib/libdts-eagle-shared.so
+SHA1-Digest: Yt3BoD2noh/e+4GTxO52KBc/3dg=
 
-Name: deuteronomy/etc/stereo_right.cnt
-SHA1-Digest: +VQ78Y4YSaoKsAJTEXfLcgaPwks=
+Name: customize/huawei/system/etc/audio/modem/ascend_modem_algo_hi3635_normal.xml
+SHA1-Digest: 7t7ca7bycBrkzPXTTi/5UTiJ3jo=
 
-Name: customize/lib/armeabi/libaptX-1.0.0-rel-Android21-ARMv7A.so
-SHA1-Digest: pY+MSf5GBTu+lUPfsNAuVaThEmU=
+Name: sdcard/ViPER4Android/Kernel/SRS Audio HD (TruBass 50 + Dialog Clarity 50 + GEQ Acoustic).irs
+SHA1-Digest: NChU1pJOgEMtbUYPfvZ5rL1nQKk=
 
-Name: customize/ViPER4Android/Kernel/.nomedia
-SHA1-Digest: egb6XI9KaZsbpkv7JN8OAkSUVEw=
+Name: customize/huawei/system/etc/audio/modem/modem_NATASHA_telecomiot.xml
+SHA1-Digest: PiaNbL7n/FTiXSjE+eUpkktfgwM=
 
-Name: customize/ViPER4Android/Kernel/DFX Large Ambience.irs
-SHA1-Digest: H/cidYvgRKBetZpXTjJKYkPN7Vs=
+Name: customize/huawei/system/etc/dts/lineout_8
+SHA1-Digest: jj9XRKis12XhoFq4YY8zWPHDqhc=
 
-Name: customize/lib64/armeabi/libaudioom.so
-SHA1-Digest: Nm5dofn+7qUqLSijvbWw3ROXrMU=
+Name: customize/huawei/system/etc/permissions/com.huawei.audioalgo.xml
+SHA1-Digest: ganKzfTiTuXlOHiprBbmmpcqe7c=
 
-Name: customize/lib64/armeabi/sony/libqcomvisualizer.so
-SHA1-Digest: Atv5dweBo590sjI63Yj66y0Wlxg=
-
-Name: deuteronomy/lib/libsta_lib_third_party_libsta_lib_libsta_gyp.so
-SHA1-Digest: +sXa8aK/c3kH9cSX8Fn6jPNnVX0=
-
-Name: deuteronomy/lib/libswsprocessing.so
-SHA1-Digest: 2TCvuWGxbpe2CWMUVnEd9zw36BA=
-
-Name: customize/lib/x86/libTarsosDSP.so
-SHA1-Digest: gGtNUntJCpBpxqzww85IjK+mleE=
-
-Name: customize/lib/x86/libAudioPluginSuperpoweredSpatializer.so
-SHA1-Digest: 0SeIjnGKjYc8EPpn/5N+s/oN2JQ=
-
-Name: customize/lib/armeabi/libmars-service.so
-SHA1-Digest: Ye2A30KRy7GXajriKsHrYTar64s=
-
-Name: deuteronomy/lib/libsta_lib_third_party_staproxy_sta_proxy_loader_gyp.so
-SHA1-Digest: ZSmv311/AZt0ccRHPHEXw5o3jC4=
+Name: customize/huawei/system/etc/audio/dts/dts_KNIGHT_normal.xml
+SHA1-Digest: PZ/dX0TPBxWOjq2UGeRyePOFxpM=
 
 Name: sources/Wiko Robby/build.prop
 SHA1-Digest: n9MmxheJ0HeMAQPtfhAcSQS5RF0=
 
-Name: deuteronomy/lib/AudioSphereModule.so
-SHA1-Digest: 3Y0RfjJ69TgZClZvTuaqCo/4h9k=
+Name: customize/lib/x86/asus_x86/soundfx/asus/libldnhncr.so
+SHA1-Digest: KWu7hA/bnj5xTFIEppgH7skzDXM=
 
 Name: customize/audio_effects/dap/audio_effects.conf
-SHA1-Digest: /7gQ9nqGbDzqnhKtf0ov+Dl2TYw=
+SHA1-Digest: 6kiGjv1xA0awZVo6EZArRhSNaVo=
 
 Name: customize/app/ArkamysAudio.apk
-SHA1-Digest: VdM7faZvXhZesDzK6TOWovAyyDA=
+SHA1-Digest: M6QOFnorKHbDwtMGbq6ffDhwZsE=
 
-Name: customize/ViPER4Android/Kernel/srs_audio_sandbox_04_music_stereo_InDaClub+TruSurroundXT.irs
-SHA1-Digest: /U1LeK3l92x1YkkVAs6M5wul4m0=
+Name: customize/huawei/system/etc/dts/res/AM185.jpg
+SHA1-Digest: hDRMLiulozgI9CFM4p+d4YLq86E=
 
-Name: deuteronomy/lib/soundfx/boutique/libicepower.so
-SHA1-Digest: PvXynu2QQ4dKTMsuEpkKLncJP/I=
+Name: customize/lib/armeabi/libaptXScheduler.so
+SHA1-Digest: DReA9L6/HLMdq9zlVKDzDo0qViw=
+
+Name: customize/huawei/system/etc/audio/algorithm/algorithm_NATASHA_normal.xml
+SHA1-Digest: hqlJjmh3Jcrpq5KYfnv32rOYChI=
+
+Name: deuteronomy/usr/share/alsa/cards/aliases.conf
+SHA1-Digest: gWEYKBeBGKFBikWQ7L521aCCKjI=
 
 Name: sources/Vivo Y37/build.prop
 SHA1-Digest: 4OwbhhDhKQk6umdww5eIwZsutgQ=
 
-Name: sources/Vivo X7 Plus/build.prop
-SHA1-Digest: HifCoXRJPj7mgXxZ5ROIFo0xW/A=
-
-Name: deuteronomy/lib/DTS_HPX_MODULE.so
-SHA1-Digest: pX2NFTZIoTzPBUQwPnZmjzn5vCA=
-
-Name: customize/ViPER4Android/Kernel/DFX Urban RB.irs
-SHA1-Digest: HgIVM5d+qUSMC/8f+aaXAFmSM54=
-
 Name: customize/lib64/armeabi/sony/libaudiopreprocessing.so
 SHA1-Digest: FzGovtsxSntocXl3b2W1KeyhULg=
 
-Name: customize/lib64/armeabi/sony/libbundlewrapper.so
-SHA1-Digest: 3J1nS1e8O01jDqdguIAPvz9rUgo=
-
-Name: customize/dts/bluetooth_1
-SHA1-Digest: jr35rit6307rWz/LyTTWKrSke3o=
+Name: deuteronomy/lib/DTS_HPX_MODULE.so
+SHA1-Digest: pX2NFTZIoTzPBUQwPnZmjzn5vCA=
 
 Name: customize/lib64/armeabi/asus/libldnhncr.so
 SHA1-Digest: FLkU6PfM0ebNJ6n+yZW22tspqjM=
@@ -638,47 +506,50 @@ SHA1-Digest: FLkU6PfM0ebNJ6n+yZW22tspqjM=
 Name: deuteronomy/lib/libsomcmediahttp.so
 SHA1-Digest: UtqJlYkfZwy5zCJ8vTmGXtAiBTo=
 
-Name: customize/ViPER4Android/Kernel/srs_audio_sandbox_03_music_headset_InDaClub+Headphone360.irs
-SHA1-Digest: IGwN2KQ51CqyeEj/YWEhBkwseI4=
+Name: customize/lib/armeabi/libaptXHD-1.0.0-int-Android21-ARMv7A.so
+SHA1-Digest: 8SNRByxunbEV8hBq4bDGlkv/chk=
 
-Name: customize/dts/speaker_0
-SHA1-Digest: 3qzZ/qoEDa7aoHEAANskqytklcI=
+Name: customize/huawei/system/etc/audio/modem/modem_NEXT_normal.xml
+SHA1-Digest: o57smzN/r3Zno08XO3SZmak1Sic=
 
-Name: customize/ViPER4Android/Profile/Audiophile X/com.vipercn.viper4android_v2.bluetooth.xml
-SHA1-Digest: OZMqsMmtUQDELKkheIhvItFbZPI=
+Name: customize/huawei/lib64/libswsprocessing.so
+SHA1-Digest: cDVvw9UIw8HHWgIexqQjmiUVdSA=
+
+Name: sdcard/ViPER4Android/Profile/Audiophile X/com.vipercn.viper4android_v2.speaker.xml
+SHA1-Digest: a3naOuMvtpL6q3F9fgHBakXF6mc=
+
+Name: sources/Huawei Mate 9 Pro/build.prop
+SHA1-Digest: gsPljkjr3H4a6eHjcniqChm3zp4=
 
 Name: deuteronomy/lib/libauroservice_client.so
 SHA1-Digest: 5k3HqvKanjQX6bm3BFhJkhcCn64=
 
-Name: sources/LG V20/build.prop
-SHA1-Digest: hj7Rj8mgUUvKfKtJ1WmYpPLbhj8=
+Name: deuteronomy/usr/share/alsa/pcm/rear.conf
+SHA1-Digest: k/ebuzdjHXNvedURokcq8TRsKec=
 
-Name: deuteronomy/lib/SrsTruMediaModule.so
-SHA1-Digest: Ig6+rYl+ZQEM4AWHP8qWv/ZT2rk=
+Name: customize/huawei/lib64/libaudioalgoservice_jni.so
+SHA1-Digest: QLOLY+eAIa7ugdypYysZxWwTFio=
 
-Name: deuteronomy/lib/libeaglecore.so
-SHA1-Digest: KIGvr78N8r/QqbOYU4KjFcXeMpo=
+Name: sdcard/ViPER4Android/Profile/Audiophile X/com.vipercn.viper4android_v2.headset.xml
+SHA1-Digest: Sw5GpBo82bLfWCxQ9zCbgEijUss=
 
-Name: customize/dts/bluetooth_4
-SHA1-Digest: 8m71AQTZ4B0NlbO29PsN7SANQdU=
+Name: customize/huawei/system/etc/dts/tuning_configs
+SHA1-Digest: aYk6Efbd7/sqhXtzS1FcUtECqLw=
 
-Name: customize/ViPER4Android/Kernel/DFX Streamcast Dialog.irs
-SHA1-Digest: kJ8uc03X5kFr1ABtYURRA1HknCo=
+Name: customize/huawei/system/etc/audio/modem/modem_VIENNA_lgukr.xml
+SHA1-Digest: F7gRNo5ekw1WGK/HW1IBE/9qAfE=
 
-Name: customize/lib/armeabi/libsurround_3mic_proc.so
-SHA1-Digest: 3/2W5JjM+2GJOfMYZ4/nE39RK4I=
+Name: customize/huawei/system/etc/dts/speaker_3
+SHA1-Digest: dA6r6XsdJRtM7yMjJ+fzKoOHg3A=
 
-Name: customize/dts/bluetooth_3
-SHA1-Digest: zocMBK3OkF38Kr8064YEYQOlBgk=
+Name: customize/huawei/lib64/libdts_hpx_service_c.so
+SHA1-Digest: A3eRuW9az4ss8lKYXlCokSOW2R4=
 
-Name: customize/ViPER4Android/Kernel/DFX Jazz Electric.irs
-SHA1-Digest: WbU+dJlI/BNFbJTIv3VYOfoMNm0=
+Name: customize/huawei/system/etc/dts/lineout_2
+SHA1-Digest: RIgRF9hDigRwY/J4oGLIFkJtSX8=
 
-Name: customize/lib/armeabi/asus/libvolumelistener.so
-SHA1-Digest: QuAyTLqxvuvZwS2jnPtl7IWfyf8=
-
-Name: customize/lib/armeabi/sony/libqcomvoiceprocessing.so
-SHA1-Digest: 77zr045UqKNT92Ahl9vTKG8E2S0=
+Name: deuteronomy/usr/share/alsa/pcm/dpl.conf
+SHA1-Digest: bocVi9UnBZsXeaJEQs8pYuJ69Sw=
 
 Name: deuteronomy/etc/permissions/com.arkamys.audiofx.xml
 SHA1-Digest: y48NHJim4aXfZJM3kOVT4jsfZRU=
@@ -689,20 +560,596 @@ SHA1-Digest: n3d1G9z3DXnToaHzbrghlbMGg0E=
 Name: customize/lib64/armeabi/asus/libaudiopreprocessing.so
 SHA1-Digest: +EyocKKzi5l5WLr2+QIHlBXJbcE=
 
-Name: customize/lib/armeabi/libmsc.so
-SHA1-Digest: hu32h1CoOJ2xSIlAtJE7KXNhqTc=
-
 Name: sources/Sony Xperia XZ/build.prop
 SHA1-Digest: tORDwpDcGPzdZ5UZeQaPGvGT4vo=
 
-Name: customize/lib/armeabi/libqcompostprocbundle.so
-SHA1-Digest: wK1neg5vgyTnZfvcwzVaOFrFcZY=
+Name: sdcard/ViPER4Android/Kernel/SRS_1_2_InDaClub Bass_stereo.irs
+SHA1-Digest: M0sTKH5bPpPpZKD3c1MJh7KtEL8=
 
-Name: customize/ViPER4Android/Kernel/DFX Classic Chamber Music.irs
-SHA1-Digest: OJXRCaROfUQQw58FqiHZNuZpq/Q=
+Name: customize/huawei/system/etc/audio/modem/modem_VIENNA_unicomiot.xml
+SHA1-Digest: g7JbrMBPzo1DZhJsscoDyA4j1C8=
+
+Name: sdcard/ViPER4Android/Kernel/DFX Metal Rap Hi Clarity.irs
+SHA1-Digest: OvOMV8/lvSKdPFaFxsDrmwEfUTo=
+
+Name: customize/huawei/lib64/libDoreso.so
+SHA1-Digest: Z2baBT5b0nYC+7nr8+4iQz84WeU=
+
+Name: customize/huawei/system/etc/sws/tws_config.bin
+SHA1-Digest: 33L7wf8U4B12dP5bV6H3X7t8yj0=
+
+Name: sdcard/ViPER4Android/Kernel/DFX Blues Morden Electric.irs
+SHA1-Digest: rCP0ZCplIeq9CqEApuBCDAud9yQ=
+
+Name: sdcard/ViPER4Android/Kernel/DFX Classic Rock.irs
+SHA1-Digest: xiwZBnzP47IXABNQUdNox340WQc=
+
+Name: customize/lib/armeabi/libFrequencyDomain.so
+SHA1-Digest: qO7H+KTooI6H3XtTDcmLwStoMfQ=
+
+Name: deuteronomy/usr/share/alsa/pcm/surround40.conf
+SHA1-Digest: OcOsg0CmWbzmYisjsPNeSXw128Q=
+
+Name: sdcard/ViPER4Android/Profile/Audiophile X/com.vipercn.viper4android_v2.bluetooth.xml
+SHA1-Digest: Q9wrMhIZOYI+bonJASjMtbsSuds=
+
+Name: customize/etc/drc/drc_cfg_5.1.txt
+SHA1-Digest: V0piUVDgOnL6cMu5AyfFHRj5T9w=
+
+Name: sdcard/ViPER4Android/Kernel/DFX Country Young Country.irs
+SHA1-Digest: ALfmIIfJVJeWbKdrIqd0hIOrZZU=
+
+Name: customize/lib/armeabi/sony/libreverbwrapper.so
+SHA1-Digest: axZK25yjy7pw8qh0ebU4/oHhGN8=
+
+Name: sdcard/ViPER4Android/Kernel/srs_hd_audio_lab_02_music_laptop.irs
+SHA1-Digest: I5SE1q1TyxMNhIqFuP6ZVEbH1u8=
+
+Name: customize/huawei/lib64/libaudio_custom.so
+SHA1-Digest: 4U3AsjYD3cjKUOELBCtwzLk3Ayo=
+
+Name: customize/huawei/system/lib/libswsprocessing.so
+SHA1-Digest: aJanoHR2SNbRyeEz8D+ASHdDQQQ=
+
+Name: customize/lib64/armeabi/asus/libqcbassboost.so
+SHA1-Digest: 0tDYqlBHDObQcf8/VCYXg92zov8=
+
+Name: customize/lib/x86/asus_x86/libhpx-lite-sdk.so
+SHA1-Digest: YTjnfU6QT6+lzWJ+RAGXPT6nC4U=
+
+Name: customize/lib64/armeabi/libTarsosDSP.so
+SHA1-Digest: PLWR3kQA97T8huTPzGTDultgAgA=
+
+Name: customize/lib64/armeabi/sony/libqcompostprocbundle.so
+SHA1-Digest: q2SSbfhZdZpft3lJSr+2t3jC4Tc=
+
+Name: customize/lib64/x86_64/libTarsosDSP.so
+SHA1-Digest: YjDVbviHCxK1g1DT/n++/gLAVZI=
+
+Name: customize/lib/armeabi/asus/libqcomvoiceprocessing.so
+SHA1-Digest: CnBRAcWQj3z3wYICe9R+IZrMUaM=
+
+Name: customize/lib/armeabi/sony/libsonysweffect.so
+SHA1-Digest: d4p0BOXUhdrW8EpqGGZ4fdU4wDY=
+
+Name: customize/huawei/system/etc/audio/algorithm/algorithm_EDISON_normal.xml
+SHA1-Digest: Fz1imnVuuQZ7IkypSZZplepaiEA=
+
+Name: customize/lib64/armeabi/sony/libqcbassboost.so
+SHA1-Digest: HOh6kAT0DMrpQzqwU5+hx+G/0wQ=
+
+Name: sdcard/ViPER4Android/Kernel/DFX Classic Chamber Music.irs
+SHA1-Digest: fHc4E00dWgtmMX/u1F/sZSX5vMk=
+
+Name: customize/etc/surround_sound_3mic/surround_sound_rec_5.1.cfg
+SHA1-Digest: I4t3IcbYBC4ocqfYU0/WdJjZ8Y0=
+
+Name: sdcard/ViPER4Android/Kernel/.nomedia
+SHA1-Digest: hJ4oqT/wDm0s4HlrtQMILYaM/j0=
+
+Name: sdcard/ViPER4Android/Kernel/srs_hd_audio_lab_01_music_headset.irs
+SHA1-Digest: KCN/8Y+wWhPzFPtMt/2XYDs6pOo=
+
+Name: sources/Huawei Mediapad M2/build.prop
+SHA1-Digest: X8gLuFAKzYz9khrDNa9yubvB7e8=
+
+Name: customize/lib/armeabi/sony/libqcreverb.so
+SHA1-Digest: eeSpIMfkccJLF9FWEEZ7avTbzew=
+
+Name: customize/huawei/system/etc/audio/modem/modem_BEETHOVEN_cmcciot.xml
+SHA1-Digest: YRSiSbkzF/cofrijJUoZMdBhLk0=
+
+Name: customize/huawei/system/lib/libdts-eagle-shared.so
+SHA1-Digest: BlGyud6kRSE9bUW4m0xfwZFh8dc=
+
+Name: customize/lib/armeabi/sony/libeffectproxy.so
+SHA1-Digest: O7h4OqC1i+PON9F61fuJ9UBD0eo=
+
+Name: customize/huawei/system/etc/audio/modem/modem_EDISON_gcf.xml
+SHA1-Digest: G8DcLQT06nNpObERIteeBcUotk8=
+
+Name: deuteronomy/usr/share/alsa/pcm/side.conf
+SHA1-Digest: gSigikbIl7vAMMy75xSW4Il9U9o=
+
+Name: customize/huawei/system/etc/dts/lineout_0
+SHA1-Digest: ge3Y47TG8sCNm1bGM19FPAZBEiw=
+
+Name: customize/huawei/system/etc/dts/lineout_9
+SHA1-Digest: 4wiAuQHDpKF6St0E16ikU3vL64c=
+
+Name: customize/lib64/armeabi/sony/libeffectproxy.so
+SHA1-Digest: JNGxdp94ZZO6nJzf0BK0YuWo6aU=
+
+Name: sdcard/ViPER4Android/Kernel/srs_2_2_indaclub+headset.irs
+SHA1-Digest: pEn1acw0/oUmtt0eexm9CDjyglE=
+
+Name: customize/lib/armeabi/libTarsosDSP.so
+SHA1-Digest: k5vC09Uh25T3uW5AKGxVV0gmviQ=
+
+Name: customize/customize_information.prop
+SHA1-Digest: 7nyKvZ7Ob1J86QiQB4uoQiIJnaY=
+
+Name: deuteronomy/lib/libosl-maxxaudio-itf.so
+SHA1-Digest: FbKD6za6MWXTSYSGzCHBcWEzZqU=
+
+Name: sdcard/ViPER4Android/Kernel/SRS_2_1_Normal_headphone.irs
+SHA1-Digest: zUFSi0iAPSYPu8j6tN0Q9vWK8O4=
+
+Name: sources/Vivo V3 Max/Qualcomm/build.prop
+SHA1-Digest: TJYTXNPUeRqdpOFWEBsqE68VIa8=
+
+Name: customize/huawei/system/etc/dts/res/dts_standard_earbuds_small.png
+SHA1-Digest: Z52DhumfswojY+MaL7RME//3opI=
+
+Name: customize/lib/x86/asus_x86/soundfx/asus/libreverbwrapper.so
+SHA1-Digest: jfxL1GicHpNzynGv2UReN6880ng=
+
+Name: customize/lib/armeabi/asus/libeffectproxy.so
+SHA1-Digest: BBTAR9Rsr+n7AwvMr/LuGAV/smw=
+
+Name: customize/lib/armeabi/sony/libvisualizer.so
+SHA1-Digest: eFpsPGwPeUGqbayyHydzwKHoMLg=
+
+Name: customize/huawei/system/etc/audio/dts/ascend_dts_algo_GRACE_CLG_normal.xml
+SHA1-Digest: uDqUnH9d43ONTg+J/+Suua+nzTQ=
+
+Name: customize/huawei/system/etc/audio/modem/modem_BEETHOVEN-DCO_gcf.xml
+SHA1-Digest: 5othrikxzD5jGv6TDkZgqsNrONk=
+
+Name: arise_addon.prop
+SHA1-Digest: qCGtmCBGEUnNg/3BRlzIMBDH4Zo=
+
+Name: customize/huawei/system/etc/audio/dts/ascend_dts_algo_GRACE_ES_normal.xml
+SHA1-Digest: yXhYNV4bFMeH56HUAdgV/opCwTY=
+
+Name: sdcard/ViPER4Android/Kernel/DFX Concert Hall Ambience.irs
+SHA1-Digest: 8AowwrXgrBo5huQ9n1zl8OXOJp8=
+
+Name: customize/app/ViPER4Arise.apk
+SHA1-Digest: azFB5DgiDfukXS1E2uOKKb9XgYY=
+
+Name: customize/huawei/system/etc/audio/modem/modem_FRD_normal.xml
+SHA1-Digest: HovV6MDvRVanzbYXqwoVLA3GCQ0=
+
+Name: customize/lib/armeabi/sony/libaudiopreprocessing.so
+SHA1-Digest: xwP4+tv5BGFCdrkzh1NIk2wKhXg=
+
+Name: customize/audio_effects/x86/audio_effects.conf
+SHA1-Digest: tbML/8z4jdQWD5CM/MeK6gn5gDE=
+
+Name: sdcard/ViPER4Android/Kernel/DFX Country Classic.irs
+SHA1-Digest: NurNLMhLsGbOUofl95bdeGTx7zQ=
+
+Name: customize/lib/armeabi/libSuperpoweredLatency.so
+SHA1-Digest: RXIoL156aB9LHBFaoNZrqCZe1Y8=
+
+Name: sdcard/ViPER4Android/Kernel/srs_1_2_indaclub+stereo.irs
+SHA1-Digest: 6Qk4kSdbZg1l7kMb9TGgxDZOx7M=
+
+Name: deuteronomy/lib/libstlport_sh_521.so
+SHA1-Digest: 38s1S04J8PajxWEa2ddFYXoef1o=
+
+Name: deuteronomy/lib/libstlport_shared.so
+SHA1-Digest: ReE93nTsks2dJtjlCSWLkaBPc1M=
+
+Name: customize/huawei/system/etc/audio/modem/modem_FRD_telecomiot.xml
+SHA1-Digest: T1Y9Z6IwHnDkY9QSezmH1T+jPoQ=
+
+Name: customize/huawei/system/etc/audio/modem/modem_BEETHOVEN-DCO_unicomiot.xml
+SHA1-Digest: eFzyxZb2SMpk99Q/beO/BxHnkfQ=
+
+Name: customize/huawei/system/etc/audio/modem/modem_VIENNA_telecomiot.xml
+SHA1-Digest: QqnRzQJPZUMYOoSKS+U+wAf+JGw=
+
+Name: customize/huawei/system/etc/audio/modem/modem_NEXT_gcf.xml
+SHA1-Digest: WOGYyn40qbeOPVkDEHeFSM7kNyw=
+
+Name: customize/huawei/system/etc/audio/modem/ascend_modem_algo_GRACE_CLG_normal.xml
+SHA1-Digest: 5VtOdppq9HssblH2SqSXwpTsudg=
+
+Name: deuteronomy/lib/DolbySurroundModule.so
+SHA1-Digest: fym5VhTH+FZ40lJH67cKo/bKpRw=
+
+Name: deuteronomy/lib/libaudioom.so
+SHA1-Digest: fj6KoZrZGl/gQIKkqpiYkZFbj3Q=
+
+Name: sdcard/ViPER4Android/Kernel/srs_hd_audio_lab_06_music_soundsys_channel_7.1.irs
+SHA1-Digest: bAqensY5rGKLQigOwLgfZa57s2Y=
+
+Name: customize/huawei/vendor/framework/com.huawei.audioalgo.jar
+SHA1-Digest: Zh7mym4wIuQtSwwkKNuBH1tHHSE=
+
+Name: deuteronomy/lib/soundfx/deuteronomy/libarkamys.so
+SHA1-Digest: 3TCONGlKic94120CjZuJLB92Q0U=
+
+Name: customize/huawei/system/etc/dts/bluetooth_3
+SHA1-Digest: IbvVHy2xTcp3N8pggrS+a8d6r1g=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: tLgBaUmk0ImSlk+t55uvNZlijaA=
+
+Name: deuteronomy/lib/libmwsound.so
+SHA1-Digest: XbbIEjk1am1/3dYxfPXloTqMC1w=
+
+Name: customize/huawei/system/etc/audio/modem/modem_NEXT_unicomiot.xml
+SHA1-Digest: iC1Tcs6bxXTC9kfI3hmrwR4tIr0=
+
+Name: deuteronomy/lib/libval_2.0.so
+SHA1-Digest: Vv8toLqkycO4Ls3+BXSq5gyCDJs=
+
+Name: deuteronomy/lib/libstagefright_soft_lddpdec.so
+SHA1-Digest: XRSW1aqvQ2tahbf4Pm/Y+lMN1sc=
+
+Name: sdcard/ViPER4Android/Kernel/DFX Streamcast High Bitrate Music.irs
+SHA1-Digest: G/eSBKQVXmOBi2GO+P88MPdWnNA=
+
+Name: customize/huawei/system/etc/audio/modem/modem_BEETHOVEN_unicomiot.xml
+SHA1-Digest: OLNuPGDWwZKCN6KVrh1qo50oO+Q=
+
+Name: customize/huawei/system/etc/audio/dts/dts_GALILEO_normal.xml
+SHA1-Digest: TXvTay+gv28N7By+rBUXZyHLPcc=
+
+Name: sdcard/ViPER4Android/Kernel/DFX Urban RB.irs
+SHA1-Digest: AYtuwG4Gt/Awktw9AWHMTWZw2o0=
+
+Name: sdcard/ViPER4Android/Kernel/srs_hd_audio_lab_05_music_soundsys_channel_5.1.irs
+SHA1-Digest: SiiiMs1yssLQ8K2Y86RcWSq+Slo=
+
+Name: sdcard/ViPER4Android/Kernel/DFX Blues Vintage Electric.irs
+SHA1-Digest: uQKhXzRI2Nkt6h+X4i+YhN0rGIU=
+
+Name: customize/huawei/system/etc/audio/modem/modem_EVA_gcf.xml
+SHA1-Digest: EP4XfFhV2hRAZThnvCTb045USDs=
+
+Name: deuteronomy/lib/soundfx/deuteronomy/libsrs.so
+SHA1-Digest: Jmd8f+XVfG7tKCguleUhgeJtme4=
+
+Name: sources/Nextbit Robin/build.prop
+SHA1-Digest: K2OjUQlcNzq4IvzqJClAqMx3UtU=
+
+Name: deuteronomy/lib/DolbyMobileModule.so
+SHA1-Digest: 5ghT7DKzRQYrDly1cUkazIIQ1OM=
+
+Name: customize/huawei/system/lib/libdts_hpx_service_c.so
+SHA1-Digest: izYQEo1PZGhN4yvqaugMpj0Wp/M=
+
+Name: customize/huawei/system/etc/audio/modem/modem_BEETHOVEN_normal.xml
+SHA1-Digest: uBYnZxjTrFNHfPWrsDcT0D1YgRk=
+
+Name: customize/huawei/system/etc/dts/speaker_0
+SHA1-Digest: u6pttH/3RZ45xsKwAzEHQoVUnQY=
+
+Name: customize/huawei/system/lib/libhuaweiaudioeffectutil.so
+SHA1-Digest: vZ/+6c3ol4Uyh622zlTp/2PoNJg=
+
+Name: sdcard/ViPER4Android/Kernel/Heroin.irs
+SHA1-Digest: CpM/8PHE3Zl37IAxMf4pMTjUZSM=
+
+Name: customize/huawei/system/etc/dts/lineout_1
+SHA1-Digest: B0r6gGYHel0ZUOp/gorNwVRsxpU=
+
+Name: customize/huawei/system/etc/audio/modem/modem_EVA_telecomiot.xml
+SHA1-Digest: CHcJx6k7ZRGEoMLGm8Oa9U22bB8=
+
+Name: customize/huawei/system/etc/audio/algorithm/algorithm_VIENNA_normal.xml
+SHA1-Digest: wlJKsgGo5fycZ/aUVgBe7modSfg=
+
+Name: sdcard/ViPER4Android/Kernel/SRS_1_2.irs
+SHA1-Digest: Zd9vxpQzHlUzJgMeNAWZpf7bYnc=
+
+Name: customize/lib/armeabi/asus/libqcompostprocbundle.so
+SHA1-Digest: WdzX4CsdGG9tgMI6sc9EWxCHfJk=
+
+Name: customize/etc/surround_sound_3mic/surround_sound_rec_AZ.cfg
+SHA1-Digest: CHd7T/ANpQGjLC7v3hh0cHpx6Kc=
+
+Name: sdcard/ViPER4Android/Kernel/srs_2_1_normal+headset.irs
+SHA1-Digest: YOoiGrETPl3UGML/1rWk+wvqOVs=
+
+Name: customize/lib/armeabi/sony/libqcompostprocbundle.so
+SHA1-Digest: HHDahFT3iKZ6IAdb1qlmd7rryXM=
+
+Name: deuteronomy/lib/libmars-service_jni.so
+SHA1-Digest: ivA53dlb/s/z+zWEn7JVxqi8u2I=
+
+Name: sources/Asus Zenfone 3 Deluxe/build.prop
+SHA1-Digest: fLmOkx2b/+atPbrZHidnrEjy/rY=
+
+Name: deuteronomy/lib/libval_common.so
+SHA1-Digest: jovWLgh4SGYFxJLWi4N64Bf5OZY=
+
+Name: customize/huawei/system/lib/libhpx-lite-sdk-thin-jni.so
+SHA1-Digest: fuWmNlQWyR8Wgtbb36EPrdPVQDM=
+
+Name: sdcard/ViPER4Android/Kernel/srs_hd_audio_lab_04_music_soundsys_channel_2.1.irs
+SHA1-Digest: Ta26wLCY9hlHNCRNGkJcVWRz33Q=
+
+Name: customize/huawei/system/etc/audio/algorithm/algorithm_NEXT_normal.xml
+SHA1-Digest: +y/nP5/qn+fg3aKVvVtA8BDbMVE=
+
+Name: sdcard/ViPER4Android/Kernel/DFX Big Bass.irs
+SHA1-Digest: /cZsL2LLz4a+AqYHom3V37iF2hE=
+
+Name: customize/huawei/system/etc/dts/lineout_6
+SHA1-Digest: FSvE/jQnbLUEVOwUB5CI9pBSYG4=
+
+Name: customize/lib/x86/libbt-aptX-x86-4.2.2.so
+SHA1-Digest: SLCLgeXWOZgbJMEUZWJ56FzDDjQ=
+
+Name: deuteronomy/usr/share/alsa/pcm/surround71.conf
+SHA1-Digest: KCMApfIsfzRGO0Et05MyDK2WyaA=
+
+Name: customize/huawei/system/etc/audio/algorithm/algorithm_EVA_normal.xml
+SHA1-Digest: pDfgYWfRGuJWqYQ7C3UE8k6JoIs=
+
+Name: customize/huawei/system/etc/audio/modem/modem_KNIGHT_cmcciot.xml
+SHA1-Digest: GM8WWF0sGzhR16IrTgYb5RFdQPo=
+
+Name: sdcard/ViPER4Android/Kernel/DFX Streamcast Dialog.irs
+SHA1-Digest: nUBubvxZ29YnlreurTcyIU0XCx4=
+
+Name: customize/huawei/system/etc/audio/algorithm/algorithm_KEPLER_normal.xml
+SHA1-Digest: pMsOI9xNQskKNzj98G6Jd5wTTp4=
+
+Name: customize/huawei/system/etc/dts/res/AM110.jpg
+SHA1-Digest: gVSiZEXTSwGa0uvcdDUS/OIS4k0=
+
+Name: customize/huawei/system/etc/audio/algorithm/algorithm_BEETHOVEN-DCO_normal.xml
+SHA1-Digest: HOPE3Z3vuGIy8u36jvcqcIAQj04=
+
+Name: customize/huawei/system/etc/dts/speaker_2
+SHA1-Digest: NlvYT4iVwkPUIw6aIU+yz3wM1OM=
+
+Name: customize/huawei/system/lib/libhuaweiaudioalgoservice.so
+SHA1-Digest: Odq+8b2mJfFMON1FbVTaL1Q39PQ=
+
+Name: sdcard/ViPER4Android/Kernel/SRS_2_2_InDaClub Bass_headphone.irs
+SHA1-Digest: hCntYAZ+atIuU/jkd6rbQa65OX0=
+
+Name: customize/huawei/system/etc/srs/srsmodels.lic
+SHA1-Digest: MYDe32CvwvVzgYSCl/gQn0iXUu4=
+
+Name: customize/huawei/system/etc/audio/modem/modem_FRD_gcf.xml
+SHA1-Digest: aRjBpoBS0h5+WvDrbXoaVXJcSyA=
+
+Name: customize/lib/armeabi/asus/libldnhncr.so
+SHA1-Digest: 0bXjwoxQAwI+bc601Lz7OLZa2aA=
+
+Name: deuteronomy/lib/libmars-service.so
+SHA1-Digest: N56+y07q76WZWrsTJxVFjpGQXy4=
+
+Name: sdcard/ViPER4Android/Kernel/srs_2_1.irs
+SHA1-Digest: hXqorvq8K+joeJ5fpiiHmBvysiY=
+
+Name: customize/huawei/system/etc/audio/modem/modem_EDISON_cmcciot.xml
+SHA1-Digest: Zpkx+svpTpfM9GuWGvEFchpJico=
+
+Name: customize/huawei/system/etc/audio/modem/modem_NATASHA_unicomiot.xml
+SHA1-Digest: JN++bnhq4GBzv/0TvSSamyUgGZA=
+
+Name: customize/lib64/armeabi/libsomcavextensionsimpl.so
+SHA1-Digest: Ykli84qdMBq6NQvPTsCFh8uO/M8=
+
+Name: customize/lib64/x86_64/libSuperpoweredLatency.so
+SHA1-Digest: RXep4stI16EH+LratTlUrf4uUCA=
+
+Name: deuteronomy/usr/share/alsa/pcm/surround41.conf
+SHA1-Digest: NdPdnwnyKaUUfyZbZJ6MhVfD60I=
+
+Name: customize/huawei/system/etc/dts/res/AM13.jpg
+SHA1-Digest: QfnOAGAPjwWTQRghE0pmaOdLs1w=
+
+Name: customize/huawei/system/etc/audio/modem/modem_BEETHOVEN-DCO_cmcciot.xml
+SHA1-Digest: u1RBxG3ZGxgtqkKYi/MOqXs5rPk=
+
+Name: customize/lib64/armeabi/sony/libvisualizer.so
+SHA1-Digest: UCIXGQc+/0Tl8ydntIxyFuWhsCc=
+
+Name: customize/lib/armeabi/libV4AJniUtils.so
+SHA1-Digest: 1vG5SGTAe4QvTUSVN59fhzEiCss=
+
+Name: customize/huawei/system/lib/libsws3processing.so
+SHA1-Digest: nUJh8A5QNu8FDsPi5HwKXS8bjMQ=
+
+Name: deuteronomy/framework/com.arkamys.audiofx.jar
+SHA1-Digest: ByPfDyRT3jZVAqsM/mMmldK6+o4=
+
+Name: deuteronomy/usr/share/alsa/pcm/surround50.conf
+SHA1-Digest: cb7qzZJ+NdTq/lpNPCMLRPSHCL8=
+
+Name: customize/lib64/armeabi/sony/libqcreverb.so
+SHA1-Digest: JXsWoXWQVOkz7yDHC/D1YIUj9wU=
+
+Name: customize/huawei/system/etc/audio/algorithm/algorithm_hi3635_normal.xml
+SHA1-Digest: SihF9KlavvXudTsuOMjAJrFgGVU=
+
+Name: customize/lib/armeabi/sony/libqcomvisualizer.so
+SHA1-Digest: G6XNmfNtZGPEUVIaFaWh/j1vGKc=
+
+Name: customize/huawei/system/etc/audio/modem/modem_KEPLER_normal.xml
+SHA1-Digest: fHg3ss/EI21Nc17K06ReFNMClg0=
+
+Name: sdcard/ViPER4Android/Kernel/DFX Mega Bass.irs
+SHA1-Digest: zowxA7wXzt1ImzuJj8tTKiAwrvQ=
+
+Name: customize/huawei/system/etc/audio/dts/dts_hi3650_normal.xml
+SHA1-Digest: BC+92MySW926+kz78TBepPe+las=
+
+Name: deuteronomy/lib/libauroservice.so
+SHA1-Digest: RLiTkg4+VFwyFEYNQ4Kcy4vQw0Y=
+
+Name: customize/huawei/system/lib/libeaglecore.so
+SHA1-Digest: BNr297xzvnQiFLrh+EA/x3vhkpU=
+
+Name: customize/huawei/system/etc/audio/algorithm/algorithm_GRACE_CLG_normal.xml
+SHA1-Digest: Xq6m1vwqWUr6t81gvx8KCFoYJIU=
+
+Name: customize/huawei/system/etc/dts/res/in_box_earphone.jpg
+SHA1-Digest: p4W1NIE6gvgIJMZM67SoAV9cA1w=
+
+Name: customize/huawei/system/etc/audio/modem/modem_EVA_normal.xml
+SHA1-Digest: EvlDgHnH2XwGyKRgZarxJE65nFs=
+
+Name: sdcard/ViPER4Android/Kernel/SRS_2_2.irs
+SHA1-Digest: nOLFL4OrScDI+Xs5zSEv3MRuEZM=
+
+Name: customize/lib64/armeabi/asus/libdownmix.so
+SHA1-Digest: OCOv43h9UjZ8QxcsjZggtNA0AEA=
+
+Name: sdcard/ViPER4Android/Kernel/srs_audio_sandbox_04_music_stereo_InDaClub+TruSurroundXT.irs
+SHA1-Digest: o5jbxwY+K74OGzhyWco5DAoLRYY=
+
+Name: customize/huawei/system/etc/audio/modem/modem_NATASHA_gcf.xml
+SHA1-Digest: eTwYsVLUuARFE9wEsrm3i993ioA=
+
+Name: customize/huawei/system/etc/audio/modem/modem_hi3650_normal.xml
+SHA1-Digest: GcHEjZx21p2ML49ABVJYPinrCbc=
+
+Name: deuteronomy/lib/soundfx/deuteronomy/libbbesonicmax.so
+SHA1-Digest: LGMn2IpMRc7qbe+ZjVCMNKD1eCE=
+
+Name: customize/huawei/system/etc/audio/dts/ascend_dts_algo_hi3635cs_normal.xml
+SHA1-Digest: 4hOtWE02QiCFUCa9NS1CRFNaJFw=
+
+Name: customize/lib/armeabi/asus/libdownmix.so
+SHA1-Digest: P2hv4BTC/72KhAmPJOpHF5qeGs8=
+
+Name: deuteronomy/lib/libSpectrum_jni.so
+SHA1-Digest: DbR9/NQHhSkKdpbJ1fftrzXAC1s=
+
+Name: customize/huawei/system/etc/dts/bluetooth_1
+SHA1-Digest: ESDWgId5bLiGj2jXJdt62M0zLz4=
+
+Name: customize/lib/armeabi/libaptX-1.0.0-rel-Android21-ARMv7A.so
+SHA1-Digest: pY+MSf5GBTu+lUPfsNAuVaThEmU=
+
+Name: deuteronomy/etc/permissions/com.huawei.audioalgo.xml
+SHA1-Digest: YhKM5PYFrrYLL+2ZYTJnWF5QiGo=
+
+Name: customize/huawei/system/etc/sws/sws_btv_lp1_l.den
+SHA1-Digest: JrpSnkq3gdph3/ywzRzH8Is/SUo=
+
+Name: customize/lib64/armeabi/libaudioom.so
+SHA1-Digest: Nm5dofn+7qUqLSijvbWw3ROXrMU=
+
+Name: customize/lib64/armeabi/sony/libqcomvisualizer.so
+SHA1-Digest: Atv5dweBo590sjI63Yj66y0Wlxg=
+
+Name: customize/huawei/lib64/libaudiotestalgo.so
+SHA1-Digest: aHM0Jvt20DTY1SvFeGDj/saggeU=
+
+Name: customize/lib/x86/libTarsosDSP.so
+SHA1-Digest: gGtNUntJCpBpxqzww85IjK+mleE=
+
+Name: customize/lib/x86/libAudioPluginSuperpoweredSpatializer.so
+SHA1-Digest: 0SeIjnGKjYc8EPpn/5N+s/oN2JQ=
+
+Name: customize/lib/x86/asus_x86/soundfx/asus/libbundlewrapper.so
+SHA1-Digest: oLf5V/KT0G6kK5fmytRxgeWQyTA=
+
+Name: customize/huawei/system/etc/audio/algorithm/algorithm_BEETHOVEN_normal.xml
+SHA1-Digest: yTlf+tyYmTAgL9URcl8uOG2c9ig=
+
+Name: sdcard/ViPER4Android/Kernel/srs_audio_sandbox_02_music_headset_InDaClub+WowHd.irs
+SHA1-Digest: R+d6gFbmyzEeMKDCBQtRclEvxok=
+
+Name: deuteronomy/lib/AudioSphereModule.so
+SHA1-Digest: 3Y0RfjJ69TgZClZvTuaqCo/4h9k=
+
+Name: customize/huawei/system/etc/sws/sws_config.xml
+SHA1-Digest: cRCkQd6QUWXGh3px+qEkybIThG0=
+
+Name: customize/huawei/system/etc/dts/res/inbox.png
+SHA1-Digest: E/6F/dGg3/G/RRgI1yYVO43riG4=
+
+Name: customize/huawei/system/lib/libaudioalgoservice_jni.so
+SHA1-Digest: cJL1WowFoMaRWUewXKBQITu2j6c=
+
+Name: customize/huawei/system/etc/audio/modem/modem_KNIGHT_unicomiot.xml
+SHA1-Digest: 88gsIN5CXngCfSDxbNRX6q0BIyc=
+
+Name: sources/Vivo X7 Plus/build.prop
+SHA1-Digest: HifCoXRJPj7mgXxZ5ROIFo0xW/A=
+
+Name: customize/lib64/armeabi/sony/libbundlewrapper.so
+SHA1-Digest: 3J1nS1e8O01jDqdguIAPvz9rUgo=
+
+Name: customize/huawei/system/etc/audio/dts/dts_FRD_normal.xml
+SHA1-Digest: OlGwCZ8YFZDSoCPYh0KaQrBcCx8=
+
+Name: customize/lib/x86/asus_x86/soundfx/asus/libeffectproxy.so
+SHA1-Digest: Xz1FRsnm2rOBfDV/uMGtCIH9Gm8=
+
+Name: sdcard/ViPER4Android/Kernel/DFX Light Processing 1.irs
+SHA1-Digest: 3D/b8iGT6fsHdCpwAk0rVSeptuE=
+
+Name: customize/huawei/system/etc/audio/modem/modem_VIENNA_gcf.xml
+SHA1-Digest: HU8HlpRBq888BRbljZvFyOpaQeE=
+
+Name: customize/huawei/system/etc/srs/srs_processing.cfg
+SHA1-Digest: JwRmDbiu56OlgziPWlolZVYkypk=
+
+Name: sources/LG V20/build.prop
+SHA1-Digest: hj7Rj8mgUUvKfKtJ1WmYpPLbhj8=
+
+Name: customize/huawei/system/lib/libsws2processing.so
+SHA1-Digest: +6T+8o9QhnGRH5EzB6cUugIlPCk=
+
+Name: deuteronomy/lib/SrsTruMediaModule.so
+SHA1-Digest: Ig6+rYl+ZQEM4AWHP8qWv/ZT2rk=
+
+Name: customize/lib/armeabi/libsurround_3mic_proc.so
+SHA1-Digest: 3/2W5JjM+2GJOfMYZ4/nE39RK4I=
+
+Name: customize/huawei/system/etc/audio/modem/ascend_modem_algo_hi3635cs_normal.xml
+SHA1-Digest: IBG05YyyFNifDisfUVr+rAAS9tA=
+
+Name: customize/lib/armeabi/asus/libvolumelistener.so
+SHA1-Digest: QuAyTLqxvuvZwS2jnPtl7IWfyf8=
+
+Name: customize/lib/armeabi/sony/libqcomvoiceprocessing.so
+SHA1-Digest: 77zr045UqKNT92Ahl9vTKG8E2S0=
+
+Name: customize/huawei/system/etc/dts/speaker_1
+SHA1-Digest: VzqU6HuJ3g/OI/rinhCLM2DV02I=
+
+Name: customize/huawei/system/etc/dts/lineout_4
+SHA1-Digest: v6Ert/pM0mCh4wEL0Snl+sULDb8=
+
+Name: sdcard/ViPER4Android/Kernel/SRS_1_1_Normal_stereo.irs
+SHA1-Digest: +vnlDp37fIu1mzBn8u5p9jG/Spw=
+
+Name: customize/huawei/vendor/lib/libomx-dts.so
+SHA1-Digest: SvrcTGc05kLEZPXG/LhoRlPylck=
+
+Name: customize/lib/armeabi/libmsc.so
+SHA1-Digest: hu32h1CoOJ2xSIlAtJE7KXNhqTc=
 
 Name: customize/lib/armeabi/asus/libqcreverb.so
 SHA1-Digest: aoPgfHWUxj6daZz7hjWxyyKQxAw=
+
+Name: customize/lib/armeabi/libstlport_sta.so
+SHA1-Digest: J65xO6mPdumRMhXlpMS5oCUMoPE=
 
 Name: deuteronomy/lib/libstagefright_soft_pcmdec.so
 SHA1-Digest: aUgwgV889HbZhBPjFuRb9UyHc7c=
@@ -710,143 +1157,131 @@ SHA1-Digest: aUgwgV889HbZhBPjFuRb9UyHc7c=
 Name: sources/Vivo XPlay 3S/build.prop
 SHA1-Digest: cysWff6VvRICyC8qGxf0vKlKvyE=
 
-Name: deuteronomy/usr/triggers/permissive.prop
-SHA1-Digest: EP+Vd8NSfZFMSB+EwRPQL7t9xbo=
+Name: customize/huawei/system/etc/audio/modem/modem_BEETHOVEN-DCO_normal.xml
+SHA1-Digest: uvb+2HpLzl/DMsLWH7b8aJ58Dy8=
 
-Name: deuteronomy/lib/libomx-dts.so
-SHA1-Digest: qmi7EHchEQA2pZwZJ7ZcCTlYly0=
+Name: sdcard/ViPER4Android/Kernel/DFX MP3 Enhancer Hi Volume.irs
+SHA1-Digest: HVYzODGBzEDvQvuYKqPC7a8IPB4=
 
-Name: customize/ViPER4Android/Kernel/srs_audio_sandbox_05_music_stereo_InDaClub+WowHd.irs
-SHA1-Digest: WTbWIBfs1Bew09faj8N8D0W5La0=
-
-Name: customize/lib/mtk/soundfx/libbbesonicmax.so
-SHA1-Digest: Yv5NhwDT+QPfP3xwkrTLsCNydeA=
-
-Name: deuteronomy/lib/soundfx/boutique/libmaxxaudio.so
-SHA1-Digest: grR5ync2o2YBAhOwKARqKCx5Cn0=
-
-Name: customize/lib/armeabi/libFrequencyDomain.so
-SHA1-Digest: qO7H+KTooI6H3XtTDcmLwStoMfQ=
+Name: customize/huawei/system/etc/audio/dts/dts_NEXT_normal.xml
+SHA1-Digest: D3sp2BlyOw2XpQhmNkuwggMcIxg=
 
 Name: customize/lib64/armeabi/sony/libqcomvoiceprocessing.so
 SHA1-Digest: u2vamrH4J+HPTpQEGTtLHKRaSXc=
 
-Name: customize/ViPER4Android/Kernel/DFX Streamcast High Bitrate Music.irs
-SHA1-Digest: vM8rpLW+n+UqW65QgXE5h5k4hJY=
+Name: customize/huawei/system/etc/audio/modem/ascend_modem_algo_default_normal.xml
+SHA1-Digest: 9UuX8z/c/1F8VPTG7/QPNBZv/6A=
+
+Name: customize/huawei/system/etc/audio/modem/modem_VIENNA_cmcciot.xml
+SHA1-Digest: qKkNxgjPWJGQxm40weUEQHeP1OA=
+
+Name: customize/lib/x86/asus_x86/soundfx/asus/libdownmix.so
+SHA1-Digest: FNBjxN/RB9+OVVv3pemwfbJjoSs=
 
 Name: customize/lib64/armeabi/libAudioPluginSuperpoweredSpatializer.so
 SHA1-Digest: +dgOHY999//J0HyQfcwnZFQvBhc=
 
-Name: customize/dts/speaker_1
-SHA1-Digest: x/4w4ERYqiVHV1lg1pAl+sSc/6Y=
+Name: sdcard/ViPER4Android/Kernel/srs_audio_sandbox_06_music_laptop_InDaClub+TruSurroundXT.irs
+SHA1-Digest: mW/MrbN/ryOdd0//ymPXWtOGnr4=
 
-Name: customize/lib64/armeabi/libaudioalgoservice_jni.so
-SHA1-Digest: UfgIKdcHE2RUJTmGuVtnocOcQWo=
+Name: sdcard/ViPER4Android/Kernel/SRS Audio (Extreme TruBass).irs
+SHA1-Digest: zcyR4T6acbTtEDHzOCRno5ohSqo=
 
 Name: sources/Vivo V3 Max/Mediatek/build.prop
 SHA1-Digest: IIcv2AZEkTSLu1cGU74zjnyjzzc=
 
-Name: customize/lib/armeabi/sony/libreverbwrapper.so
-SHA1-Digest: axZK25yjy7pw8qh0ebU4/oHhGN8=
+Name: customize/huawei/system/etc/dts/lineout_5
+SHA1-Digest: ErROzM54+kUv5ehMzb/jWZsSxOM=
+
+Name: sdcard/ViPER4Android/Kernel/srs_audio_sandbox_05_music_stereo_InDaClub+WowHd.irs
+SHA1-Digest: CKJTsPAodtVA85tfjK7tOShEf3c=
+
+Name: customize/huawei/system/etc/audio/modem/ascend_modem_algo_GRACE_ES_normal.xml
+SHA1-Digest: ZpEJ+3OGlsSlOFENM+uOawrFnhI=
 
 Name: customize/audio_effects/htc/htc_audio_effects.conf
-SHA1-Digest: pyjhuWrmF2uM+0PJvozcwDdrOvY=
+SHA1-Digest: QRK1umxISFRhUE6RGtA1v11DEV4=
 
 Name: customize/lib64/x86_64/libAudioPluginSuperpoweredSpatializer.so
 SHA1-Digest: y25fB3+mlYUIWhwzuhAJ9YJQF/0=
 
-Name: customize/ViPER4Android/Kernel/DFX Metal Rap Big Bass.irs
-SHA1-Digest: AVn/EYR7bp259xyCVSqzaXmwazs=
+Name: customize/lib/armeabi/libsta_lib_third_party_libsta_lib_libsta_gyp.so
+SHA1-Digest: DkBncAEWNreQSPCqELir8PDETW0=
 
-Name: customize/lib64/armeabi/asus/libqcbassboost.so
-SHA1-Digest: 0tDYqlBHDObQcf8/VCYXg92zov8=
+Name: deuteronomy/lib/libmars-featureclient.so
+SHA1-Digest: Hm8JFcAGqseW5edRW1QUtxTEV/s=
 
-Name: customize/lib64/armeabi/libTarsosDSP.so
-SHA1-Digest: PLWR3kQA97T8huTPzGTDultgAgA=
-
-Name: customize/lib64/x86_64/libTarsosDSP.so
-SHA1-Digest: YjDVbviHCxK1g1DT/n++/gLAVZI=
-
-Name: customize/lib64/armeabi/sony/libqcompostprocbundle.so
-SHA1-Digest: q2SSbfhZdZpft3lJSr+2t3jC4Tc=
-
-Name: customize/lib/armeabi/asus/libqcomvoiceprocessing.so
-SHA1-Digest: CnBRAcWQj3z3wYICe9R+IZrMUaM=
-
-Name: deuteronomy/usr/triggers/sony.prop
-SHA1-Digest: HbTrr3uV/BMQsU8q3QSWHDvEGOM=
-
-Name: customize/lib/armeabi/sony/libsonysweffect.so
-SHA1-Digest: d4p0BOXUhdrW8EpqGGZ4fdU4wDY=
+Name: customize/huawei/system/etc/dts/bluetooth_0
+SHA1-Digest: i0uMR1faf3C+nnhPeYdnNlgTzJg=
 
 Name: customize/lib/armeabi/libsrsprocessing.so
-SHA1-Digest: ejSXNl4NzzhqInxa/pL5bkEPL9M=
+SHA1-Digest: 6pZ4I0gMpAUk3fCwSxOFt39FdjA=
 
-Name: customize/app/ICEsoundService.apk
-SHA1-Digest: sYZrjB2B4sE6HzPEX+X81PgkbVE=
+Name: deuteronomy/lib/soundfx/deuteronomy/libspboost.so
+SHA1-Digest: o+NVXcbC6kLEFuFHlB8CTakJl3Y=
 
 Name: deuteronomy/lib/libstlport.so
 SHA1-Digest: XA8DVlqXP0Am7eIoJ4uo6i9kaSA=
 
-Name: customize/lib64/armeabi/libbbesonicmax.so
-SHA1-Digest: J6VBklkB6bjYdDPKCibtxQJ6v/A=
+Name: customize/lib/x86/asus_x86/soundfx/asus/libaudiopreprocessing.so
+SHA1-Digest: HZfleWm66DnlmK6cAL3YSmhKQlM=
 
-Name: customize/lib64/armeabi/sony/libqcbassboost.so
-SHA1-Digest: HOh6kAT0DMrpQzqwU5+hx+G/0wQ=
+Name: customize/huawei/system/etc/audio/modem/modem_KNIGHT_normal.xml
+SHA1-Digest: /KSTA2Ynp2rBEl/LmYPaZZsRThA=
 
-Name: customize/ViPER4Android/Kernel/DFX Country Classic.irs
-SHA1-Digest: DBN15tGpWbb7KarAIEj0rpOy+vQ=
+Name: customize/huawei/system/etc/audio/modem/modem_GALILEO_normal.xml
+SHA1-Digest: d597u3xNwDCJmbbEG+ajMjnSuzU=
 
-Name: customize/ViPER4Android/Kernel/SRS_1_2.irs
-SHA1-Digest: +Ja7KHHuO4AtmBD94t6azbySaGE=
+Name: customize/huawei/system/etc/audio/algorithm/algorithm_hi3650_normal.xml
+SHA1-Digest: FuLmo40VETQnVH6t08P7AMC944Q=
 
-Name: customize/lib64/armeabi/libhwdaphal.so
-SHA1-Digest: Lyf31cmtECjZcSKjXdedKuLjETI=
+Name: customize/huawei/system/etc/audio/modem/ascend_modem_algo_hi3650_normal.xml
+SHA1-Digest: wqKDpWH7eAqSjxj38BKz9Pvu6DA=
 
-Name: customize/lib64/armeabi/libmars-service_jni.so
-SHA1-Digest: 1jZlOpado/9Z9kJXPKLaHZsD6I4=
-
-Name: customize/lib64/armeabi/libstlport.so
-SHA1-Digest: AdZC9tIpYNdAtyPKkX+fdXXo9eQ=
-
-Name: sources/Huawei Mediapad M2/build.prop
-SHA1-Digest: X8gLuFAKzYz9khrDNa9yubvB7e8=
+Name: customize/huawei/system/etc/audio/dts/ascend_dts_algo_hi3650_normal.xml
+SHA1-Digest: e1sfaTNIDTrjyZGkagPMlQ/Ohro=
 
 Name: customize/lib/x86/libV4AJniUtils.so
 SHA1-Digest: VmeA5Y4qd9tCQSBK48QeTCsgRfM=
 
-Name: customize/lib/armeabi/sony/libqcreverb.so
-SHA1-Digest: eeSpIMfkccJLF9FWEEZ7avTbzew=
+Name: customize/huawei/system/etc/audio/dts/ascend_dts_algo_GRACE_TUGL_normal.xml
+SHA1-Digest: dJW8R5OdrD3dAh/MmmeIpxNV8Lo=
 
-Name: customize/lib/armeabi/sony/libeffectproxy.so
-SHA1-Digest: O7h4OqC1i+PON9F61fuJ9UBD0eo=
+Name: customize/lib/x86/asus_x86/soundfx/asus/liblpepreprocessing.so
+SHA1-Digest: X+9IpdrB2H76vQlFXKEQSLOJrfI=
 
-Name: customize/lib64/armeabi/libstlport_shared.so
-SHA1-Digest: JobkMHrI7ty1W+9Megw6Rm1yVWI=
+Name: customize/huawei/system/etc/audio/modem/modem_EDISON_unicomiot.xml
+SHA1-Digest: K6SSKVcLpQW8yvvw/4hETTwoejk=
+
+Name: customize/huawei/system/etc/audio/algorithm/algorithm_GRACE_ES_normal.xml
+SHA1-Digest: AxUrNr4kqHG6IV+7m5p11t2dHRs=
+
+Name: customize/huawei/system/etc/audio/modem/modem_NEXT_cmcciot.xml
+SHA1-Digest: O4XR/cR5a+qym70TiVBuI+v03HI=
 
 Name: customize/audio_effects/aosp/audio_effects.conf
-SHA1-Digest: lTEvqpcY13iEqKiqWP1xQSCZfRE=
+SHA1-Digest: eGYjRB0jak2XByAJtTzCFRvcfGg=
 
-Name: customize/ViPER4Android/Kernel/srs_1_1_normal+stereo-flatter.wav
-SHA1-Digest: rUdvu+CdlEM6MBSGo1ROCWg2mDY=
+Name: customize/huawei/lib64/libomx-dts.so
+SHA1-Digest: VUbxNOMdDm9Ar0vGVJD8vC8ECds=
 
-Name: deuteronomy/usr/triggers/ddplus.prop
-SHA1-Digest: Wp1u6+ULBOSGHEWs2BlWd0l6JM0=
+Name: sdcard/ViPER4Android/Kernel/srs_1_1_normal+stereo.irs
+SHA1-Digest: gfmzRVLua7Ngn6EMQTu5U2uLFnQ=
 
-Name: customize/lib64/armeabi/sony/libeffectproxy.so
-SHA1-Digest: JNGxdp94ZZO6nJzf0BK0YuWo6aU=
+Name: customize/lib/armeabi/libsta_lib_third_party_staproxy_sta_proxy_loader_gyp.so
+SHA1-Digest: vzQwySPYvz8BGcJux9+COv2F5OA=
 
-Name: customize/dts/lineout_3
-SHA1-Digest: PN0m+/goFeh8xH5hYHLL//UHYWE=
+Name: customize/huawei/system/etc/dts/res/AM175.jpg
+SHA1-Digest: 4LtkvlJfgFEkGG9CweiIo9UQ1AA=
 
-Name: customize/ViPER4Android/Kernel/srs_hd_audio_lab_05_music_soundsys_channel_5.1.irs
-SHA1-Digest: 7cmsF8ZZZXzFMStQGPjGs15tGlY=
+Name: customize/huawei/system/etc/audio/algorithm/algorithm_GALILEO_normal.xml
+SHA1-Digest: bd8SQ4RPeTy//Ra1+jTx5e/4pOI=
 
-Name: deuteronomy/etc/icesoundconfig.def
-SHA1-Digest: GU95EmFLIRNIDF7YdmS44KQgm+8=
+Name: deuteronomy/usr/share/alsa/pcm/front.conf
+SHA1-Digest: OfqO4cHPxsD4Xxf2YC9+I2wqvG8=
 
-Name: customize/ViPER4Android/Profile/Audiophile X/com.vipercn.viper4android_v2.headset.xml
-SHA1-Digest: 4q5gn9WSaMga4IHVmILujgDZ2O8=
+Name: deuteronomy/lib/soundfx/deuteronomy/libmaxxaudio.so
+SHA1-Digest: RSzwx1DuIJr7UZcBoVmi1o8YXa0=
 
 Name: customize/lib/armeabi/sony/libvolumelistener.so
 SHA1-Digest: eN5aSv37CaqwxQdgnME2Xyo96jA=

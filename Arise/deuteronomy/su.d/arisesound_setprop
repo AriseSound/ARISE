@@ -10,9 +10,16 @@
 
 
 
+
 ## Asus™ Zenfone 3 Ultra Audio ##
 
 #
+#codecs:(PARSER_)AAC AC3 AMR_NB AMR_WB ASF AVI DTS FLV 3GP 3G2 MKV MP2PS MP2TS MP3 OGG QCP WAV FLAC AIFF APE
+setprop mm.enable.qcom_parser 982015
+
+#parser input buffer size(256kb) in byte stream mode
+setprop audio.parser.ip.buffer.size 262144
+
 setprop qcom.hw.aac.encoder true
 setprop mm.enable.smoothstreaming true
 setprop av.debug.disable.pers.cache true
@@ -24,52 +31,41 @@ setprop audio.offload.gapless.enabled true
 setprop audio.offload.multiple.enabled false
 setprop audio.safx.pbe.enabled true
 setprop audio.pp.asphere.enabled false
+#setprop ro.asus.audio.feature ar101
+#setprop ro.asus.audiowizard.config 1
+setprop audio.offload.pcm.16bit.enable true
+setprop audio.offload.pcm.24bit.enable true
+setprop audio.dolby.ds2.enabled true
+setprop audio.dolby.ds2.hardbypass true
 #
 
-## Vivo™ V3 Max Audio ##
+## Huawei™ MediaPad M3 Audio ##
 
 #
-setprop ro.config.audio.speaker_boost yes
-setprop ro.mtk_audio_profiles 1
-setprop ro.mtk_audenh_support 1
-setprop ro.mtk_besloudness_support 1
-setprop ro.mtk_bessurround_support 1
-setprop ro.mtk_bt_support 1
-setprop ro.mtk_dolby_dap_support 1
-setprop ro.mtk_audio_tuning_tool_ver V1
-setprop ro.have_aacencode_feature 1
-setprop ro.mtk_audio_ape_support 1
-setprop ro.mtk_flv_playback_support 1
-setprop ro.mtk_wmv_playback_support 1
+setprop ro.config.hw_dts true
+setprop ro.config.hw_sws true
+setprop ro.config.sws_version sws3
+setprop ro.audio.monitorOrientation true
+setprop ro.audio.monitorRotation true
+setprop ro.config.hw_media_flags 3
+setprop ro.config.widevine_level3 true
+setprop drm.service.enabled true
+setprop ro.config.keyguard_audio_video true
 #
 
-## Vivo™ X7 Plus Audio ##
+## ViPER4Arise™ Audio ##
 
 #
-setprop ro.config.hifi_config_state 2
-setprop persist.vivo.phone.hifi Have_hifi
-setprop ro.config.hifi_always_on yes
+setprop tunnel.decode false
+setprop lpa.decode false
+setprop lpa.use-stagefright false
+#
 
 ## Miscellaneous Audio ##
 
 #
 #Hi-Res option for PowerAmp
-#setprop ro.lenovo.hifi_support true
+setprop ro.lenovo.hifi_support true
 #
 
-#Disable property for Dolby ds2
-setprop audio.dolby.ds2.enabled true
-#
-
-#Disable property for hard bypass
-setprop audio.dolby.ds2.hardbypass true
-#
-
-setprop audio.offload.pcm.16bit.enable true
-setprop audio.offload.pcm.24bit.enable true
-setprop tunnel.audiovideo.decode false
-setprop tunnel.decode false
-setprop lpa.decode false
-setprop lpa.releaselock false
-setprop lpa.use-stagefright false
-#
+exit 0

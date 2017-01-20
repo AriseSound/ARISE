@@ -2,7 +2,7 @@
 #
 # ARISE Sound Systems™
 #
-# Permissive Selinux script
+# SElinux Permissive Mode script
 
 setenforce 0
 
